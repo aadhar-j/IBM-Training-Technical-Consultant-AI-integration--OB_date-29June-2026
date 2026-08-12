@@ -1,0 +1,28 @@
+Artificial intelligence (AI) is intelligence demonstrated by machines, 
+as opposed to the natural intelligence displayed by animals including humans. 
+AI research has been defined as the field of study of intelligent agents, which refers to any 
+system that perceives its environment and takes actions that maximize its chance of achieving 
+its goals.
+
+Machine learning is a subset of AI that gives computers the ability to learn without being 
+explicitly programmed. It focuses on developing computer programs that can access data and 
+use it to learn for themselves. The process begins with observations or data, such as examples, 
+direct experience, or instruction, so that computers can look for patterns in data and make 
+better decisions in the future.
+
+Deep learning is a subset of machine learning that uses neural networks with many layers. 
+These deep neural networks have led to dramatic advances in computer vision, natural language 
+processing, and speech recognition. Deep learning models learn representations of data with 
+multiple levels of abstraction.
+
+Natural language processing (NLP) is a subfield of linguistics, computer science, and 
+artificial intelligence concerned with the interactions between computers and human language, 
+in particular how to program computers to process and analyze large amounts of natural 
+language data. The goal is a computer capable of understanding the contents of documents, 
+including the contextual nuances of the language within them.
+
+Retrieval Augmented Generation (RAG) is a technique that combines retrieval systems with 
+generative models. Instead of relying solely on the parametric knowledge stored in model 
+weights, RAG systems retrieve relevant documents from an external knowledge base and use 
+them as context when generating responses. This allows models to access up-to-date information 
+and reduces hallucination.

@@ -1,0 +1,168 @@
+import pandas as pd
+import nltk
+from nltk.sentiment.vader import SentimentIntensityAnalyzer
+from pathlib import Path
+
+
+# 1. DOWNLOAD REQUIRED NLTK RESOURCE
+
+nltk.download("vader_lexicon", quiet=True)
+
+
+# 2. CONFIGURATION
+
+# Use r before the path to create a RAW STRING
+INPUT_FILE = Path(
+    r"C:\Users\Nishanth\Documents\Machine Learning\unclean_customer_feedback_200.csv"
+)
+
+# Create output folder inside Machine Learning folder
+OUTPUT_DIR = Path(
+    r"C:\Users\Nishanth\Documents\Machine Learning\sentiment_results"
+)
+
+# Create folder if it doesn't exist
+OUTPUT_DIR.mkdir(exist_ok=True)
+
+
+# Output file paths
+POSITIVE_FILE = OUTPUT_DIR / "positive_feedback.csv"
+NEGATIVE_FILE = OUTPUT_DIR / "negative_feedback.csv"
+NEUTRAL_FILE = OUTPUT_DIR / "neutral_feedback.csv"
+ALL_RESULTS_FILE = OUTPUT_DIR / "all_sentiment_results.csv"
+
+# 3. LOAD DATA
+
+df = pd.read_csv(INPUT_FILE)
+
+print("Dataset loaded successfully!")
+print(f"Total records: {len(df)}")
+
+print("\nColumns available:")
+print(df.columns.tolist())
+
+# 4. VALIDATE REQUIRED COLUMN
+
+TEXT_COLUMN = "Feedback"
+
+if TEXT_COLUMN not in df.columns:
+    raise ValueError(
+        f"Column '{TEXT_COLUMN}' not found in the input file."
+    )
+
+# 5. HANDLE MISSING VALUES
+
+df[TEXT_COLUMN] = df[TEXT_COLUMN].fillna("").astype(str)
+
+# 6. INITIALIZE SENTIMENT ANALYZER
+
+sid = SentimentIntensityAnalyzer()
+
+# 7. SENTIMENT ANALYSIS FUNCTION
+
+def analyze_sentiment(text):
+
+    # Get sentiment scores
+    scores = sid.polarity_scores(text)
+
+    # Extract compound score
+    compound_score = scores["compound"]
+
+    # Classify sentiment
+    if compound_score >= 0.05:
+        sentiment = "Positive"
+
+    elif compound_score <= -0.05:
+        sentiment = "Negative"
+
+    else:
+        sentiment = "Neutral"
+
+    return pd.Series({
+        "Positive_Score": scores["pos"],
+        "Negative_Score": scores["neg"],
+        "Neutral_Score": scores["neu"],
+        "Compound_Score": compound_score,
+        "Sentiment": sentiment
+    })
+
+# 8. APPLY SENTIMENT ANALYSIS
+
+sentiment_results = df[TEXT_COLUMN].apply(
+    analyze_sentiment
+)
+
+
+# Add sentiment results to original DataFrame
+df = pd.concat(
+    [df, sentiment_results],
+    axis=1
+)
+
+# 9. CREATE SEPARATE DATASETS
+
+positive_df = df[
+    df["Sentiment"] == "Positive"
+].copy()
+
+
+negative_df = df[
+    df["Sentiment"] == "Negative"
+].copy()
+
+
+neutral_df = df[
+    df["Sentiment"] == "Neutral"
+].copy()
+
+
+# 10. SAVE RESULTS
+
+positive_df.to_csv(
+    POSITIVE_FILE,
+    index=False
+)
+
+negative_df.to_csv(
+    NEGATIVE_FILE,
+    index=False
+)
+
+neutral_df.to_csv(
+    NEUTRAL_FILE,
+    index=False
+)
+
+df.to_csv(
+    ALL_RESULTS_FILE,
+    index=False
+)
+
+# 11. DISPLAY SUMMARY
+
+print("\n" + "=" * 50)
+print("SENTIMENT ANALYSIS SUMMARY")
+print("=" * 50)
+
+print(f"Total Reviews  : {len(df)}")
+print(f"Positive       : {len(positive_df)}")
+print(f"Negative       : {len(negative_df)}")
+print(f"Neutral        : {len(neutral_df)}")
+
+
+print("\nSentiment Distribution:")
+print(
+    df["Sentiment"].value_counts()
+)
+
+
+# 12. OUTPUT FILE LOCATIONS
+
+print("\n" + "=" * 50)
+print("FILES CREATED")
+print("=" * 50)
+
+print(f"Positive Reviews : {POSITIVE_FILE}")
+print(f"Negative Reviews : {NEGATIVE_FILE}")
+print(f"Neutral Reviews  : {NEUTRAL_FILE}")
+print(f"All Results      : {ALL_RESULTS_FILE}")

@@ -1,0 +1,181 @@
+Review_ID,Customer_Name,Email,Feedback,Positive_Score,Negative_Score,Neutral_Score,Compound_Score,Sentiment
+1001,John Smith,john.smith@gmail.com,love product ! ! ! work perfectly 😊 . visit info !,0.705,0.0,0.295,0.8902,Positive
+1002,Emily Davis,emily@gmail.com,amaze quality ! ! ! happy purchase 😍😍,0.729,0.0,0.271,0.8433,Positive
+1003,Jessica Taylor,jessica@gmail.com,"fast delivery , great package , excellent customer support ! ! !",0.74,0.0,0.26,0.9077,Positive
+1004,Jennifer Thomas,jennifer@gmail.com,perfect product exceed expectations ! ! ! ❤️,0.534,0.0,0.466,0.6784,Positive
+1005,Linda White,linda@hotmail.com,happy buy ! ! ! best decision ever 😊😊😊,0.687,0.0,0.313,0.8682,Positive
+1006,Patricia Martin,patricia@yahoo.com,great product price . really happy ! ! !,0.749,0.0,0.251,0.8741,Positive
+1007,Barbara Garcia,barbara@gmail.com,love sleek design amaze functionality ! ! !,0.741,0.0,0.259,0.8617,Positive
+1008,Daniel Martinez,daniel@gmail.com,would buy ! ! ! highly recommend everyone .,0.478,0.0,0.522,0.5674,Positive
+1009,Margaret Rodriguez,margaret@gmail.com,fantastic ! ! ! tell friends 😍,0.883,0.0,0.117,0.8213,Positive
+1010,Karen Young,karen@hotmail.com,excellent service ! ! ! professional friendly staff 😊,0.722,0.0,0.278,0.8306,Positive
+1011,Betty King,betty@yahoo.com,good product ! ! ! good price ! ! ! good experience ! ! !,0.767,0.0,0.233,0.871,Positive
+1012,Helen Lopez,helen@gmail.com,wonderful experience ! definitely purchase .,0.77,0.0,0.23,0.7712,Positive
+1013,Michelle Roberts,michelle@gmail.com,excellent quality beautiful design ! ! ! ❤️,0.739,0.0,0.261,0.8582,Positive
+1014,Carol Phillips,carol@gmail.com,great experience ! ! ! support team fantastic .,0.849,0.0,0.151,0.9057,Positive
+1015,Amanda Parker,amanda@gmail.com,happy purchase . delivery quick .,0.552,0.0,0.448,0.5719,Positive
+1016,Melissa Edwards,melissa@hotmail.com,absolutely fantastic product ! ! ! highly recommend 😊,0.716,0.0,0.284,0.8206,Positive
+1017,Jeffrey Sanchez,jeffrey@gmail.com,great value money ! ! ! satisfy .,0.912,0.0,0.088,0.8854,Positive
+1018,Ryan Rogers,ryan@hotmail.com,wonderful product ! ! ! extremely happy .,0.811,0.0,0.189,0.8614,Positive
+1019,Joshua Green,joshua@yahoo.com,absolutely love quality ! ! ! 10/10 👍,0.642,0.0,0.358,0.7483,Positive
+1020,Kimberly Nelson,kimberly@hotmail.com,amaze ! ! ! amaze ! ! ! amaze ! ! ! love product .,0.941,0.0,0.059,0.9507,Positive
+1021,Robert Moore,robert.moore@gmail.com,product quality excellent delivery super fast ! ! !,0.679,0.0,0.321,0.8582,Positive
+1022,Laura Taylor,laura.taylor@yahoo.com,extremely satisfy purchase 😊 . check,0.523,0.0,0.477,0.5095,Positive
+1023,Thomas Anderson,thomas@gmail.com,brilliant product ! perform better expect .,0.7,0.0,0.3,0.7901,Positive
+1024,Sophia Jackson,sophia@gmail.com,five star ! ! ! excellent product amaze customer support ! ! !,0.735,0.0,0.265,0.9015,Positive
+1025,Charles White,charles@yahoo.com,could n't happier purchase ! ! !,0.0,0.549,0.451,-0.565,Negative
+1026,Mary Harris,mary@gmail.com,impressive quality ! ! ! totally worth money .,0.68,0.0,0.32,0.7483,Positive
+1027,Christopher Martin,christopher@gmail.com,product arrive early pack beautifully ! ! !,0.534,0.0,0.466,0.6784,Positive
+1028,Susan Thompson,susan@yahoo.com,superb experience ! ! ! everything go smoothly 😊,0.554,0.0,0.446,0.7163,Positive
+1029,Matthew Garcia,matthew@gmail.com,highly recommend product everyone ! ! !,0.55,0.0,0.45,0.5674,Positive
+1030,Nancy Martinez,nancy@gmail.com,excellent purchase ! ! ! completely satisfy .,0.797,0.0,0.203,0.8346,Positive
+1031,Anthony Robinson,anthony@gmail.com,quality outstanding ! ! ! great job entire team .,0.692,0.0,0.308,0.8743,Positive
+1032,Lisa Clark,lisa@yahoo.com,happy service product quality 😊,0.552,0.0,0.448,0.5719,Positive
+1033,Mark Lewis,mark@gmail.com,fantastic quality quick delivery ! ! !,0.599,0.0,0.401,0.6679,Positive
+1034,Sandra Lee,sandra@gmail.com,love everything product ! ! !,0.717,0.0,0.283,0.7249,Positive
+1035,Donald Walker,donald@yahoo.com,excellent product ! exactly want .,0.726,0.0,0.274,0.6476,Positive
+1036,Ashley Hall,ashley@gmail.com,great customer service ! ! ! solve issue immediately .,0.629,0.0,0.371,0.7767,Positive
+1037,Steven Allen,steven@gmail.com,please purchase . excellent value money .,0.808,0.0,0.192,0.8126,Positive
+1038,Dorothy Young,dorothy@yahoo.com,amaze experience ! ! ! definitely purchase .,0.78,0.0,0.22,0.795,Positive
+1039,Paul Hernandez,paul@gmail.com,product fantastic work flawlessly ! ! !,0.758,0.0,0.242,0.7412,Positive
+1040,Sarah King,sarah@gmail.com,impress quality design 😍,0.592,0.0,0.408,0.4404,Positive
+1041,George Wright,george@yahoo.com,excellent ! ! ! product exceed expectations .,0.604,0.0,0.396,0.6784,Positive
+1042,Rebecca Lopez,rebecca@gmail.com,fast ship wonderful product ! ! !,0.604,0.0,0.396,0.6784,Positive
+1043,Kenneth Hill,kenneth@gmail.com,absolutely love ! ! ! recommend friends .,0.92,0.0,0.08,0.9102,Positive
+1044,Laura Scott,laura@yahoo.com,product perfect need . satisfy .,0.77,0.0,0.23,0.7717,Positive
+1045,Brian Green,brian@gmail.com,amaze customer service excellent product quality .,0.643,0.0,0.357,0.802,Positive
+1046,Ashley Adams,ashley@gmail.com,best purchase make year ! ! ! 😊,0.629,0.0,0.371,0.7249,Positive
+1047,Edward Baker,edward@yahoo.com,"great design , great quality , great performance ! ! !",0.815,0.0,0.185,0.9346,Positive
+1048,Kimberly Nelson,kimberly@gmail.com,happy product . highly recommend .,0.765,0.0,0.235,0.7574,Positive
+1049,Jason Carter,jason@gmail.com,super fast delivery ! ! ! product exactly describe .,0.489,0.0,0.511,0.6981,Positive
+1050,Rebecca Reed,rebecca@gmail.com,wonderful experience start finish ! ! !,0.604,0.0,0.396,0.6784,Positive
+1051,Sarah Williams,sarah@gmail.com,terrible experience ! ! ! product stop work 2 days . recommend ! ! !,0.193,0.499,0.308,-0.6083,Negative
+1052,Michael Wilson,michael@hotmail.com,worst product ever ! ! ! completely useless & total waste money ! ! !,0.0,0.696,0.304,-0.9086,Negative
+1053,Robert Anderson,robert@yahoo.com,item n't work ! ! ! extremely disappoint .,0.456,0.0,0.544,0.5189,Positive
+1054,William Jackson,william@gmail.com,color dull & lifeless ... happy purchase .,0.356,0.26,0.385,0.25,Positive
+1055,James Harris,james@gmail.com,item deliver late damage ! ! ! disappoint .,0.0,0.693,0.307,-0.7767,Negative
+1056,Christopher Thompson,chris@gmail.com,cheap material ! ! ! definitely worth money .,0.646,0.0,0.354,0.6679,Positive
+1057,Susan Robinson,susan@yahoo.com,customer service unhelpful rude ! ! !,0.0,0.564,0.436,-0.5962,Negative
+1058,Nancy Hall,nancy@gmail.com,horrible ! ! ! product break immediately open box .,0.0,0.467,0.533,-0.6571,Negative
+1059,Andrew Hill,andrew@hotmail.com,waste money ! ! ! n't buy product ! ! !,0.0,0.498,0.502,-0.6083,Negative
+1060,Ashley Adams,ashley@gmail.com,bad experience ! ! ! customer support help .,0.533,0.297,0.17,0.4168,Positive
+1061,George Carter,george@gmail.com,product break ! ! ! want refund immediately ! ! !,0.382,0.0,0.618,0.3544,Positive
+1062,Edward Perez,edward@gmail.com,ca n't recommend product . disappoint .,0.306,0.286,0.407,0.0382,Neutral
+1063,Kevin Evans,kevin@gmail.com,good ! ! ! product quality extremely poor .,0.285,0.42,0.295,-0.3333,Negative
+1064,Ronald Campbell,ronald@yahoo.com,terrible quality ! ! ! completely disappoint ! ! !,0.0,0.784,0.216,-0.8053,Negative
+1065,Deborah Stewart,deborah@yahoo.com,disappoint ! ! ! expect much better quality .,0.398,0.285,0.317,0.2677,Positive
+1066,Stephanie Morris,stephanie@gmail.com,item n't look like picture . mislead .,0.0,0.297,0.703,-0.2755,Negative
+1067,David Brown,david@yahoo.com,regret buy product . absolutely terrible .,0.0,0.674,0.326,-0.7346,Negative
+1068,Emily Wilson,emily.wilson@gmail.com,quality awful ! ! ! completely dissatisfy .,0.0,0.787,0.213,-0.811,Negative
+1069,Richard Moore,richard@gmail.com,terrible service ! ! ! nobody respond email .,0.0,0.498,0.502,-0.6093,Negative
+1070,Jessica Taylor,jessica@yahoo.com,product arrive break damage . poor package ! ! !,0.0,0.642,0.358,-0.8007,Negative
+1071,John Davis,john.davis@gmail.com,awful product ! ! ! stop work within one week .,0.0,0.549,0.451,-0.7249,Negative
+1072,Mary Anderson,mary.anderson@gmail.com,extremely disappoint ! ! ! complete waste money .,0.0,0.698,0.302,-0.7865,Negative
+1073,Daniel Thomas,daniel@yahoo.com,poor quality terrible customer support ! ! !,0.229,0.601,0.17,-0.6571,Negative
+1074,Jennifer Moore,jennifer@gmail.com,delivery extremely late package damage .,0.0,0.464,0.536,-0.5367,Negative
+1075,Matthew Martin,matthew@gmail.com,worth price ! ! ! cheap materials .,0.481,0.0,0.519,0.4168,Positive
+1076,Linda Thompson,linda@gmail.com,expect much better . product disappoint .,0.337,0.314,0.349,0.0516,Positive
+1077,James Garcia,james@yahoo.com,worst customer service ever ! ! ! nobody help .,0.231,0.426,0.343,-0.5067,Negative
+1078,Patricia Martinez,patricia@gmail.com,item completely useless ! ! ! buy .,0.0,0.57,0.43,-0.6084,Negative
+1079,Mark Robinson,mark.robinson@gmail.com,poor experience begin end .,0.0,0.508,0.492,-0.4767,Negative
+1080,Barbara Clark,barbara@yahoo.com,product defective company refuse help .,0.276,0.52,0.204,-0.34,Negative
+1081,Steven Lewis,steven@gmail.com,terrible ! ! ! never purchase company .,0.0,0.57,0.43,-0.6093,Negative
+1082,Karen Lee,karen@gmail.com,product look cheap feel poorly make .,0.0,0.0,1.0,0.0,Neutral
+1083,Paul Walker,paul@yahoo.com,completely disappoint quality ! ! !,0.0,0.659,0.341,-0.5952,Negative
+1084,Nancy Young,nancy@gmail.com,"service slow , unhelpful , frustrate .",0.0,0.5,0.5,-0.4588,Negative
+1085,Anthony Hall,anthony@gmail.com,happy purchase .,0.787,0.0,0.213,0.5719,Positive
+1086,Sandra Allen,sandra@yahoo.com,product stop work suddenly . frustrate ! ! !,0.0,0.669,0.331,-0.7249,Negative
+1087,Kenneth King,kenneth@gmail.com,bad quality ! ! ! definitely recommend .,0.575,0.331,0.095,0.3769,Positive
+1088,Lisa Wright,lisa@gmail.com,item nothing like description . mislead ! ! !,0.0,0.427,0.573,-0.4563,Negative
+1089,George Lopez,george@gmail.com,horrible experience ! ! ! want money back .,0.15,0.504,0.346,-0.6219,Negative
+1090,Betty Hill,betty@yahoo.com,delivery late customer support useless .,0.318,0.329,0.353,-0.0258,Neutral
+1091,Donald Scott,donald@gmail.com,extremely poor product quality ! ! !,0.0,0.587,0.413,-0.645,Negative
+1092,Amanda Green,amanda@gmail.com,deeply disappoint . would recommend .,0.356,0.386,0.258,-0.0591,Negative
+1093,Joshua Adams,joshua@yahoo.com,product complete failure ! ! !,0.0,0.676,0.324,-0.6341,Negative
+1094,Helen Baker,helen@gmail.com,terrible package ! ! ! product arrive damage .,0.0,0.705,0.295,-0.8007,Negative
+1095,Matthew Carter,matthew@yahoo.com,satisfy . poor experience .,0.423,0.437,0.141,-0.0258,Neutral
+1096,Carol Perez,carol@gmail.com,company respond complaint .,0.0,0.524,0.476,-0.296,Negative
+1097,Ryan Roberts,ryan@gmail.com,awful quality extremely disappoint service .,0.0,0.666,0.334,-0.7178,Negative
+1098,Michelle Turner,michelle@yahoo.com,never buy product ! ! !,0.0,0.0,1.0,0.0,Neutral
+1099,Brian Phillips,brian@gmail.com,completely useless product . n't waste money .,0.247,0.328,0.424,-0.1928,Negative
+1100,Laura Campbell,laura@gmail.com,unhappy purchase ! ! !,0.0,0.786,0.214,-0.5684,Negative
+1101,David Allen,david.allen@gmail.com,product okay ... nothing special . check,0.233,0.277,0.49,-0.092,Negative
+1102,Mark Young,mark.young@yahoo.com,delivery time . product average .,0.0,0.0,1.0,0.0,Neutral
+1103,Kenneth Baker,kenneth@gmail.com,work expect . nothing extraordinary .,0.0,0.0,1.0,0.0,Neutral
+1104,Brian Turner,brian@hotmail.com,product neither good bad . average .,0.345,0.291,0.363,0.1139,Positive
+1105,Jason Collins,jason@gmail.com,product arrive today . box seal .,0.0,0.0,1.0,0.0,Neutral
+1106,Rebecca Reed,rebecca@gmail.com,product okay . may may buy .,0.322,0.0,0.678,0.2263,Positive
+1107,Paul Wright,paul@gmail.com,"package damage , product okay .",0.268,0.451,0.282,-0.3182,Negative
+1108,Sandra Scott,sandra@gmail.com,product arrive yesterday . n't use yet .,0.0,0.0,1.0,0.0,Neutral
+1109,Matthew Clark,matthew@gmail.com,'s decent product price ... nothing .,0.0,0.0,1.0,0.0,Neutral
+1110,Carol Phillips,carol@gmail.com,delivery average product acceptable .,0.434,0.0,0.566,0.3182,Positive
+1111,Thomas Harris,thomas@gmail.com,item look exactly describe .,0.0,0.0,1.0,0.0,Neutral
+1112,Sophia Martin,sophia@gmail.com,product arrive time properly pack .,0.0,0.0,1.0,0.0,Neutral
+1113,Charles Garcia,charles@gmail.com,suppose .,0.0,0.0,1.0,0.0,Neutral
+1114,Mary Robinson,mary@gmail.com,use product far . seem okay .,0.322,0.0,0.678,0.2263,Positive
+1115,Andrew Clark,andrew@gmail.com,quality acceptable price .,0.535,0.0,0.465,0.3182,Positive
+1116,Dorothy Lewis,dorothy@yahoo.com,nothing particularly impressive disappoint .,0.334,0.395,0.271,-0.1166,Negative
+1117,Richard Lee,richard@gmail.com,product fairly standard work normally .,0.0,0.0,1.0,0.0,Neutral
+1118,Laura Walker,laura@gmail.com,"delivery take days , expect .",0.0,0.0,1.0,0.0,Neutral
+1119,George Hall,george@gmail.com,"item fine , test feature .",0.375,0.0,0.625,0.2023,Positive
+1120,Susan Young,susan@gmail.com,"overall , average experience .",0.0,0.0,1.0,0.0,Neutral
+1121,Michael King,michael@gmail.com,product reasonably price perform normally .,0.0,0.0,1.0,0.0,Neutral
+1122,Jennifer Wright,jennifer@yahoo.com,receive item yesterday . still evaluate .,0.0,0.0,1.0,0.0,Neutral
+1123,Robert Lopez,robert@gmail.com,product seem fine far . nothing unusual .,0.265,0.0,0.735,0.2023,Positive
+1124,Emily Hill,emily@gmail.com,delivery neither fast slow .,0.0,0.0,1.0,0.0,Neutral
+1125,James Scott,james@gmail.com,product suitable basic usage .,0.0,0.0,1.0,0.0,Neutral
+1126,Patricia Green,patricia@yahoo.com,average product give price .,0.0,0.0,1.0,0.0,Neutral
+1127,Daniel Adams,daniel@gmail.com,n't use enough give strong opinion .,0.398,0.0,0.602,0.5106,Positive
+1128,Nancy Baker,nancy@gmail.com,package normal product intact .,0.375,0.0,0.625,0.2023,Positive
+1129,Christopher Carter,christopher@gmail.com,"item work , although limit feature .",0.0,0.0,1.0,0.0,Neutral
+1130,Barbara Perez,barbara@yahoo.com,"product acceptable , room improvement .",0.726,0.0,0.274,0.6486,Positive
+1131,Steven Roberts,steven@gmail.com,delivery time reasonable .,0.0,0.0,1.0,0.0,Neutral
+1132,Karen Turner,karen@gmail.com,product work normally days use .,0.0,0.0,1.0,0.0,Neutral
+1133,Anthony Phillips,anthony@yahoo.com,neither impressive disappoint .,0.379,0.453,0.168,-0.1139,Negative
+1134,Lisa Campbell,lisa@gmail.com,item okay occasional use .,0.388,0.0,0.612,0.2263,Positive
+1135,Donald Evans,donald@gmail.com,product arrive good condition work .,0.42,0.0,0.58,0.4404,Positive
+1136,Ashley Edwards,ashley@yahoo.com,service acceptable delivery normal .,0.434,0.0,0.566,0.3182,Positive
+1137,Joshua Collins,joshua@gmail.com,major complaints product .,0.0,0.574,0.426,-0.4019,Negative
+1138,Helen Stewart,helen@gmail.com,product meet basic requirements .,0.0,0.0,1.0,0.0,Neutral
+1139,Kevin Sanchez,kevin@yahoo.com,quality okay consider price .,0.388,0.0,0.612,0.2263,Positive
+1140,Melissa Morris,melissa@gmail.com,item deliver expect .,0.0,0.0,1.0,0.0,Neutral
+1141,Jeffrey Rogers,jeffrey@gmail.com,"product functional , exceptional .",0.0,0.0,1.0,0.0,Neutral
+1142,Stephanie Reed,stephanie@yahoo.com,overall experience fairly normal .,0.0,0.0,1.0,0.0,Neutral
+1143,Ryan Cook,ryan@gmail.com,product usable perform basic function .,0.0,0.0,1.0,0.0,Neutral
+1144,Amanda Morgan,amanda@gmail.com,nothing much say . average product .,0.0,0.0,1.0,0.0,Neutral
+1145,Jason Bell,jason@yahoo.com,item arrive time appear fine .,0.31,0.0,0.69,0.2023,Positive
+1146,Michelle Murphy,michelle@gmail.com,"still test product , say much yet .",0.0,0.0,1.0,0.0,Neutral
+1147,Brian Bailey,brian@gmail.com,"product reasonably good , outstanding .",0.775,0.0,0.225,0.7845,Positive
+1148,Kimberly Rivera,kimberly@yahoo.com,product okay intend purpose .,0.388,0.0,0.612,0.2263,Positive
+1149,Edward Cooper,edward@gmail.com,delivery package satisfactory .,0.556,0.0,0.444,0.3612,Positive
+1150,Sarah Richardson,sarah@gmail.com,standard product standard performance .,0.0,0.0,1.0,0.0,Neutral
+1151,John Cox,john.cox@gmail.com,item receive today . test later .,0.0,0.0,1.0,0.0,Neutral
+1152,Mary Howard,mary.howard@yahoo.com,"product fine , although design could improve .",0.54,0.0,0.46,0.5719,Positive
+1153,William Ward,william@gmail.com,product perform expect price .,0.0,0.0,1.0,0.0,Neutral
+1154,Linda Torres,linda@gmail.com,experience okay overall . nothing remarkable .,0.243,0.374,0.383,-0.2556,Negative
+1155,Mark Peterson,mark@gmail.com,receive order . everything seem normal .,0.0,0.0,1.0,0.0,Neutral
+1156,Jennifer Gray,jennifer.gray@yahoo.com,product average suitable basic need .,0.0,0.0,1.0,0.0,Neutral
+1157,Robert Ramirez,robert@gmail.com,item deliver without major issue .,0.0,0.0,1.0,0.0,Neutral
+1158,Emily James,emily.james@gmail.com,use product long enough judge .,0.0,0.0,1.0,0.0,Neutral
+1159,David Watson,david@gmail.com,quality neither excellent poor .,0.338,0.397,0.265,-0.1139,Negative
+1160,Jessica Brooks,jessica@yahoo.com,product acceptable amount pay .,0.404,0.246,0.351,0.2263,Positive
+1161,Michael Kelly,michael@gmail.com,delivery normal product work .,0.0,0.0,1.0,0.0,Neutral
+1162,Sarah Sanders,sarah@gmail.com,basic product average performance .,0.0,0.0,1.0,0.0,Neutral
+1163,James Price,james@yahoo.com,product seem work describe .,0.0,0.0,1.0,0.0,Neutral
+1164,Patricia Bennett,patricia@gmail.com,major issue far . continue use .,0.0,0.0,1.0,0.0,Neutral
+1165,Daniel Wood,daniel@gmail.com,product arrive acceptable condition .,0.434,0.0,0.566,0.3182,Positive
+1166,Laura Barnes,laura@yahoo.com,ordinary product ordinary feature .,0.0,0.0,1.0,0.0,Neutral
+1167,Christopher Ross,christopher@gmail.com,"product okay , although expect little .",0.322,0.0,0.678,0.2263,Positive
+1168,Nancy Henderson,nancy@gmail.com,item work properly stand .,0.0,0.0,1.0,0.0,Neutral
+1169,Anthony Coleman,anthony@yahoo.com,product usable reasonably price .,0.0,0.0,1.0,0.0,Neutral
+1170,Susan Jenkins,susan@gmail.com,overall experience neither good bad .,0.345,0.291,0.363,0.1139,Positive
+1171,Matthew Perry,matthew@gmail.com,item arrive expect . strong opinion .,0.452,0.0,0.548,0.5106,Positive
+1172,Barbara Powell,barbara@yahoo.com,product suitable simple everyday use .,0.0,0.0,1.0,0.0,Neutral
+1173,George Long,george@gmail.com,package fine product appear functional .,0.31,0.0,0.69,0.2023,Positive
+1174,Karen Patterson,karen@gmail.com,quality acceptable could better .,0.722,0.0,0.278,0.6369,Positive
+1175,Steven Hughes,steven@yahoo.com,"product job , nothing .",0.0,0.0,1.0,0.0,Neutral
+1176,Lisa Flores,lisa@gmail.com,delivery reasonable item intact .,0.375,0.0,0.625,0.2023,Positive
+1177,Paul Washington,paul@yahoo.com,still decide whether like product .,0.385,0.0,0.615,0.3612,Positive
+1178,Helen Butler,helen@gmail.com,product average useful basic task .,0.42,0.0,0.58,0.4404,Positive
+1179,Andrew Simmons,andrew@gmail.com,item arrive without problems work normally .,0.311,0.0,0.689,0.3089,Positive
+1180,Carol Foster,carol@yahoo.com,product okay . nothing particularly impressive .,0.243,0.373,0.384,-0.2544,Negative

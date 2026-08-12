@@ -1,0 +1,41 @@
+def preprocess(text, verbose=False):
+    steps = []
+    
+    # Step 1: Lowercase
+    text = text.lower()
+    if verbose: steps.append(("1. Lowercase", text))
+    
+    # Step 2: Remove URLs
+    text = re.sub(r'http\S+|www\S+', '', text)
+    if verbose: steps.append(("2. Remove URLs", text))
+    
+    # Step 3: Remove HTML tags
+    text = re.sub(r'<[^>]+>', '', text)
+    if verbose: steps.append(("3. Remove HTML", text))
+    
+    # Step 4: Remove special characters
+    text = re.sub(r'[^a-zA-Z0-9\s]', '', text)
+    if verbose: steps.append(("4. Remove special chars", text))
+    
+    # Step 5: Normalize whitespace
+    text = re.sub(r'\s+', ' ', text).strip()
+    if verbose: steps.append(("5. Normalize spaces", text))
+    
+    # Step 6: Tokenize
+    tokens = word_tokenize(text)
+    if verbose: steps.append(("6. Tokenize", str(tokens)))
+    
+    # Step 7: Remove stop words
+    tokens = [t for t in tokens if t not in stop_words]
+    if verbose: steps.append(("7. Remove stop words", str(tokens)))
+    
+    # Step 8: Lemmatize
+    tokens = [lem.lemmatize(t, pos='v') for t in tokens]
+    if verbose: steps.append(("8. Lemmatize", str(tokens)))
+    
+    if verbose:
+        for step, result in steps:
+            print(f"{step:<25}: {result}")
+        print()
+    
+    return ' '.join(tokens)

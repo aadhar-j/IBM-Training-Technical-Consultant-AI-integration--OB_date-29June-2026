@@ -1,0 +1,7 @@
+numpy
+pandas
+streamlit
+dotenv
+rank_bm25
+openai
+sarvmai

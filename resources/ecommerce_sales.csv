@@ -1,0 +1,506 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,City,State,Category,Sub_Category,Product,Quantity,Unit_Price,Discount,Sales,Cost,Profit,Payment_Mode,Rating,Delivery_Days
+1001,2025-02-14,C2001,Customer_1,Pune,Maharashtra,Electronics,Mobile,Mobile,3,32298,5,92049.3,59082.89,32966.41,Net Banking,1.0,9
+1002,2025-11-29,C2002,Customer_2,Chennai,Tamil Nadu,Electronics,Mobile,Mobile,2,30695,20,49112.0,38337.1,10774.9,Net Banking,5.0,4
+1003,2025-03-21,C2003,Customer_3,Delhi,Delhi,Furniture,Bed,Bed,3,1051,5,2995.35,2424.56,570.79,Card,3.0,5
+1004,2025-01-23,C2004,Customer_4,Chennai,Tamil Nadu,Clothing,Shirt,Shirt,4,12876,10,46353.6,39597.48,6756.12,Net Banking,5.0,5
+1005,2025-04-09,C2005,Customer_5,Chennai,Tamil Nadu,Electronics,Smart Watch,Smart Watch,5,38627,25,144851.25,113788.76,31062.49,UPI,3.0,10
+1006,2025-08-21,C2006,Customer_6,Surat,Gujarat,Electronics,Laptop,Laptop,3,10658,5,30375.3,26121.09,4254.21,Cash,4.0,5
+1007,2025-11-22,C2007,Customer_7,Hyderabad,Telangana,Furniture,Table,Table,2,35193,25,52789.5,46507.36,6282.14,Card,1.0,10
+1008,2025-01-29,C2008,Customer_8,Mumbai,Maharashtra,Furniture,Chair,Chair,4,35582,25,106746.0,86085.16,20660.84,Card,2.0,6
+1009,2025-04-19,C2009,Customer_9,Mumbai,Maharashtra,Electronics,Headphones,Headphones,3,8875,5,25293.75,22105.24,3188.51,Net Banking,5.0,6
+1010,2025-10-27,C2010,Customer_10,Bengaluru,Karnataka,Grocery,Tea,Tea,3,18501,5,52727.85,43421.21,9306.64,Net Banking,5.0,5
+1011,2025-03-20,C2011,Customer_11,Bengaluru,Karnataka,Grocery,Snacks,Snacks,2,66984,15,113872.8,71429.31,42443.49,Card,1.0,2
+1012,2025-12-15,C2012,Customer_12,Mumbai,Maharashtra,Grocery,Rice,Rice,4,78304,15,266233.6,202000.57,64233.03,UPI,5.0,1
+1013,2025-04-02,C2013,Customer_13,Chennai,Tamil Nadu,Clothing,Jacket,Jacket,3,57185,5,162977.25,119970.34,43006.91,UPI,3.0,9
+1014,2025-11-03,C2014,Customer_14,Bengaluru,Karnataka,Clothing,Jeans,Jeans,3,21374,20,51297.6,45452.23,5845.37,Cash,5.0,1
+1015,2025-02-13,C2015,Customer_15,Chennai,Tamil Nadu,Grocery,Rice,Rice,3,40506,5,115442.1,71271.36,44170.74,Net Banking,5.0,2
+1016,2025-04-19,C2016,Customer_16,Bengaluru,Karnataka,Electronics,Laptop,Laptop,4,72263,5,274599.4,186594.96,88004.44,Card,5.0,7
+1017,2025-02-02,C2017,Customer_17,Pune,Maharashtra,Clothing,Shoes,Shoes,3,57622,20,138292.8,101706.86,36585.94,Cash,2.0,4
+1018,2025-02-04,C2018,Customer_18,Delhi,Delhi,Electronics,Laptop,Laptop,2,1142,0,2284.0,1855.41,428.59,UPI,1.0,4
+1019,2025-10-20,C2019,Customer_19,Delhi,Delhi,Clothing,Shirt,Shirt,2,36700,25,55050.0,41046.62,14003.38,Net Banking,5.0,3
+1020,2025-08-05,C2020,Customer_20,Surat,Gujarat,Furniture,Bed,Bed,4,25157,0,100628.0,63302.99,,Net Banking,4.0,6
+1021,2025-04-09,C2021,Customer_21,Pune,Maharashtra,Grocery,Rice,Rice,1,8144,15,6922.4,5665.74,1256.66,Card,1.0,4
+1022,2025-10-09,C2022,Customer_22,Mumbai,Maharashtra,Grocery,Oil,Oil,2,36709,15,62405.3,42119.95,20285.35,UPI,1.0,8
+1023,2025-01-31,C2023,Customer_23,Chennai,Tamil Nadu,Electronics,Mobile,Mobile,2,21998,15,37396.6,27886.36,9510.24,Card,2.0,7
+1024,2025-03-21,C2024,Customer_24,Mumbai,Maharashtra,Grocery,Rice,Rice,3,59838,10,161562.6,117440.22,44122.38,Card,5.0,8
+1025,2025-10-27,C2025,Customer_25,Chennai,Tamil Nadu,Clothing,Jeans,Jeans,5,71266,0,356330.0,293755.84,62574.16,Net Banking,1.0,1
+1026,2025-03-03,C2026,Customer_26,Delhi,Delhi,Furniture,Sofa,Sofa,1,24556,0,24556.0,19117.1,5438.9,Card,2.0,7
+1027,2025-12-09,C2027,Customer_27,Mumbai,Maharashtra,Electronics,Mobile,Mobile,5,74285,20,297140.0,206485.84,90654.16,Cash,3.0,4
+1028,2025-08-23,C2028,Customer_28,Mumbai,Maharashtra,Furniture,Table,Table,2,39521,15,67185.7,46684.2,20501.5,UPI,1.0,1
+1029,2025-05-26,C2029,Customer_29,Delhi,Delhi,Electronics,Laptop,Laptop,3,17561,10,47414.7,40978.59,6436.11,Card,2.0,6
+1030,2025-03-10,C2030,Customer_30,Delhi,Delhi,Grocery,Snacks,Snacks,5,1225,25,4593.75,3882.32,711.43,Cash,3.0,2
+1031,2025-04-15,C2031,Customer_31,Pune,Maharashtra,Electronics,Mobile,Mobile,5,20574,10,92583.0,63375.55,29207.45,Cash,2.0,6
+1032,2025-01-02,C2032,Customer_32,Surat,Gujarat,Grocery,Snacks,Snacks,1,12297,25,9222.75,6705.61,2517.14,Cash,3.0,1
+1033,2025-02-08,C2033,Customer_33,Bengaluru,Karnataka,Furniture,Table,Table,4,72509,25,217527.0,158426.24,59100.76,Card,1.0,2
+1034,2025-01-21,C2034,Customer_34,Delhi,Delhi,Electronics,Headphones,Headphones,5,19610,15,83342.5,53191.99,30150.51,Cash,3.0,6
+1035,2025-03-21,C2035,Customer_35,Pune,Maharashtra,Furniture,Chair,Chair,1,46557,20,37245.6,32226.4,5019.2,Card,4.0,10
+1036,2025-05-17,C2036,Customer_36,Mumbai,Maharashtra,Furniture,Chair,Chair,1,23709,25,17781.75,15600.75,2181.0,Card,4.0,4
+1037,2025-06-06,C2037,Customer_37,Surat,Gujarat,Electronics,Smart Watch,Smart Watch,1,61894,5,58799.3,38800.0,19999.3,Card,4.0,6
+1038,2025-06-29,C2038,Customer_38,Pune,Maharashtra,Furniture,Sofa,Sofa,2,52427,10,94368.6,64508.57,29860.03,Net Banking,1.0,5
+1039,2025-02-25,C2039,Customer_39,Chennai,Tamil Nadu,Clothing,Shirt,Shirt,3,23605,20,56652.0,50350.05,6301.95,Net Banking,3.0,1
+1040,2025-05-11,C2040,Customer_40,Mumbai,Maharashtra,Clothing,Jacket,Jacket,5,67233,0,336165.0,240545.77,95619.23,UPI,5.0,4
+1041,2025-06-10,C2041,Customer_41,Delhi,Delhi,Grocery,Rice,Rice,5,26025,10,117112.5,85420.6,31691.9,UPI,3.0,10
+1042,2025-04-09,C2042,Customer_42,Pune,Maharashtra,Clothing,Jacket,Jacket,4,42953,15,146040.2,118170.26,27869.94,Net Banking,5.0,3
+1043,2025-05-27,C2043,Customer_43,Delhi,Delhi,Grocery,Oil,Oil,5,39646,15,168495.5,128794.79,39700.71,Card,1.0,5
+1044,2025-12-04,C2044,Customer_44,Mumbai,Maharashtra,Grocery,Snacks,Snacks,4,58154,25,174462.0,115862.03,58599.97,UPI,4.0,3
+1045,2025-01-24,C2045,Customer_45,Chennai,Tamil Nadu,Clothing,Jacket,Jacket,2,40887,5,77685.3,65408.6,12276.7,Card,2.0,1
+1046,2025-07-24,C2046,Customer_46,Mumbai,Maharashtra,Grocery,Rice,Rice,4,75654,5,287485.2,234445.27,53039.93,Card,4.0,8
+1047,2025-01-26,C2047,Customer_47,Surat,Gujarat,Furniture,Sofa,Sofa,1,55924,5,53127.8,34680.02,18447.78,Card,5.0,8
+1048,2025-09-16,C2048,Customer_48,Bengaluru,Karnataka,Electronics,Smart Watch,Smart Watch,4,69816,20,223411.2,173955.94,49455.26,Net Banking,4.0,10
+1049,2025-09-06,C2049,Customer_49,Pune,Maharashtra,Grocery,Oil,Oil,4,59191,10,213087.6,175910.85,,Card,3.0,9
+1050,2025-03-12,C2050,Customer_50,Chennai,Tamil Nadu,Clothing,Shoes,Shoes,3,30935,10,83524.5,58530.15,24994.35,Card,5.0,2
+1051,2025-08-27,C2051,Customer_51,Pune,Maharashtra,Furniture,Bed,Bed,2,28243,0,56486.0,40921.87,15564.13,Net Banking,3.0,9
+1052,2025-07-14,C2052,Customer_52,Surat,Gujarat,Electronics,Laptop,Laptop,4,51249,20,163996.8,144943.42,19053.38,Net Banking,1.0,10
+1053,2025-04-23,C2053,Customer_53,Hyderabad,Telangana,Electronics,Headphones,Headphones,4,55121,20,176387.2,145387.98,30999.22,Net Banking,5.0,10
+1054,2025-08-28,C2054,Customer_54,Mumbai,Maharashtra,Furniture,Table,Table,4,4004,15,13613.6,9540.94,4072.66,Card,4.0,3
+1055,2025-04-04,C2055,Customer_55,Delhi,Delhi,Electronics,Smart Watch,Smart Watch,5,3752,0,18760.0,14873.4,3886.6,UPI,2.0,8
+1056,2025-08-04,C2056,Customer_56,Hyderabad,Telangana,Clothing,Shoes,Shoes,2,59798,10,107636.4,75480.04,32156.36,Cash,4.0,5
+1057,2025-01-16,C2057,Customer_57,Chennai,Tamil Nadu,Electronics,Smart Watch,Smart Watch,5,7026,10,31617.0,21096.97,10520.03,Card,1.0,1
+1058,2025-04-22,C2058,Customer_58,Delhi,Delhi,Furniture,Sofa,Sofa,2,31466,5,59785.4,44364.85,15420.55,Net Banking,1.0,10
+1059,2025-02-25,C2059,Customer_59,Bengaluru,Karnataka,Clothing,Jacket,Jacket,5,79793,25,299223.75,244019.11,55204.64,UPI,2.0,5
+1060,2025-12-23,C2060,Customer_60,Mumbai,Maharashtra,Clothing,Shoes,Shoes,2,10161,20,16257.6,13122.88,3134.72,Cash,2.0,2
+1061,2025-01-07,C2061,Customer_61,Hyderabad,Telangana,Electronics,Mobile,Mobile,5,56348,25,211305.0,150274.04,61030.96,Net Banking,5.0,6
+1062,2025-11-30,C2062,Customer_62,Mumbai,Maharashtra,Grocery,Rice,Rice,3,60458,25,136030.5,87861.74,48168.76,Cash,2.0,9
+1063,2025-08-19,C2063,Customer_63,Mumbai,Maharashtra,Grocery,Tea,Tea,5,35379,10,159205.5,136202.53,23002.97,Card,1.0,5
+1064,2025-05-13,C2064,Customer_64,Hyderabad,Telangana,Grocery,Tea,Tea,1,64989,10,58490.1,38284.81,20205.29,Cash,2.0,6
+1065,2025-10-12,C2065,Customer_65,Delhi,Delhi,Clothing,Jacket,Jacket,1,67915,5,64519.25,40368.66,24150.59,Card,4.0,8
+1066,2025-12-06,C2066,Customer_66,Mumbai,Maharashtra,Grocery,Tea,Tea,1,12396,10,11156.4,7435.51,3720.89,Cash,2.0,5
+1067,2025-05-09,C2067,Customer_67,Mumbai,Maharashtra,Grocery,Snacks,Snacks,5,43557,10,196006.5,158933.14,37073.36,Card,3.0,5
+1068,2025-05-22,C2068,Customer_68,Hyderabad,Telangana,Electronics,Laptop,Laptop,1,70436,25,52827.0,34630.47,18196.53,Cash,2.0,8
+1069,2025-05-21,C2069,Customer_69,Hyderabad,Telangana,Electronics,Laptop,Laptop,2,47501,5,90251.9,62335.21,27916.69,UPI,5.0,3
+1070,2025-08-29,C2070,Customer_70,Pune,Maharashtra,Electronics,Headphones,Headphones,2,64540,0,129080.0,111243.2,17836.8,Net Banking,5.0,5
+1071,2025-09-09,C2071,Customer_71,Bengaluru,Karnataka,Grocery,Snacks,Snacks,1,33292,15,28298.2,17947.46,10350.74,UPI,1.0,7
+1072,2025-08-02,C2072,Customer_72,Bengaluru,Karnataka,Electronics,Laptop,Laptop,5,40024,0,200120.0,179742.87,20377.13,Card,1.0,9
+1073,2025-11-09,C2073,Customer_73,Mumbai,Maharashtra,Grocery,Tea,Tea,3,77339,15,197214.45,136396.29,60818.16,UPI,5.0,1
+1074,2025-01-02,C2074,Customer_74,Hyderabad,Telangana,Furniture,Chair,Chair,1,20785,5,19745.75,12877.07,6868.68,Net Banking,1.0,3
+1075,2025-12-18,C2075,Customer_75,Hyderabad,Telangana,Grocery,Tea,Tea,1,30540,10,27486.0,22321.02,5164.98,Card,4.0,2
+1076,2025-02-06,C2076,Customer_76,Mumbai,Maharashtra,Clothing,Jeans,Jeans,1,71576,5,67997.2,54009.52,13987.68,UPI,3.0,3
+1077,2025-05-20,C2077,Customer_77,Delhi,Delhi,Furniture,Table,Table,5,38028,15,161619.0,103000.77,58618.23,Net Banking,3.0,7
+1078,2025-02-16,C2078,Customer_78,Delhi,Delhi,Grocery,Rice,Rice,1,56826,25,42619.5,29692.86,12926.64,Card,3.0,1
+1079,2025-04-03,C2079,Customer_79,Delhi,Delhi,Electronics,Headphones,Headphones,1,23162,15,19687.7,14877.78,4809.92,Net Banking,4.0,5
+1080,2025-06-18,C2080,Customer_80,Mumbai,Maharashtra,Grocery,Rice,Rice,3,53723,10,145052.1,101002.31,,Net Banking,1.0,3
+1081,2025-06-15,C2081,Customer_81,Pune,Maharashtra,Grocery,Snacks,Snacks,4,72302,0,289208.0,212986.59,76221.41,UPI,3.0,5
+1082,2025-11-15,C2082,Customer_82,Pune,Maharashtra,Grocery,Rice,Rice,5,60752,15,258196.0,159116.18,99079.82,Net Banking,5.0,6
+1083,2025-03-04,C2083,Customer_83,Bengaluru,Karnataka,Grocery,Rice,Rice,3,72187,5,205732.95,180695.63,25037.32,UPI,4.0,8
+1084,2025-08-25,C2084,Customer_84,Hyderabad,Telangana,Furniture,Chair,Chair,5,1992,20,7968.0,5756.06,2211.94,UPI,2.0,2
+1085,2025-05-05,C2085,Customer_85,Pune,Maharashtra,Furniture,Bed,Bed,3,66898,25,150520.5,102659.12,47861.38,Net Banking,4.0,8
+1086,2025-08-01,C2086,Customer_86,Bengaluru,Karnataka,Furniture,Bed,Bed,5,66816,25,250560.0,216433.2,34126.8,Cash,1.0,5
+1087,2025-08-17,C2087,Customer_87,Hyderabad,Telangana,Clothing,Shirt,Shirt,3,77131,20,185114.4,166542.0,18572.4,Net Banking,4.0,3
+1088,2025-10-20,C2088,Customer_88,Delhi,Delhi,Clothing,Jacket,Jacket,5,49641,15,210974.25,185626.89,25347.36,Net Banking,2.0,4
+1089,2025-12-06,C2089,Customer_89,Chennai,Tamil Nadu,Furniture,Bed,Bed,3,62193,25,139934.25,122306.6,17627.65,Card,4.0,7
+1090,2025-09-27,C2090,Customer_90,Bengaluru,Karnataka,Grocery,Rice,Rice,5,77556,10,349002.0,300459.34,48542.66,Net Banking,4.0,2
+1091,2025-11-16,C2091,Customer_91,Mumbai,Maharashtra,Electronics,Laptop,Laptop,2,10007,15,17011.9,14195.71,2816.19,Net Banking,3.0,6
+1092,2025-01-19,C2092,Customer_92,Surat,Gujarat,Electronics,Headphones,Headphones,5,50008,10,225036.0,177337.31,47698.69,UPI,4.0,9
+1093,2025-03-27,C2093,Customer_93,Bengaluru,Karnataka,Furniture,Table,Table,1,57081,0,57081.0,47269.4,9811.6,Cash,1.0,8
+1094,2025-09-29,C2094,Customer_94,Hyderabad,Telangana,Electronics,Mobile,Mobile,1,38652,10,34786.8,24783.94,10002.86,Net Banking,2.0,4
+1095,2025-03-15,C2095,Customer_95,Bengaluru,Karnataka,Furniture,Chair,Chair,1,50340,20,40272.0,32416.56,7855.44,Card,4.0,10
+1096,2025-02-07,C2096,Customer_96,Mumbai,Maharashtra,Grocery,Snacks,Snacks,3,1431,15,3649.05,3176.0,473.05,Net Banking,5.0,3
+1097,2025-09-05,C2097,Customer_97,Pune,Maharashtra,Clothing,Jacket,Jacket,4,32980,15,112132.0,95714.89,16417.11,UPI,2.0,7
+1098,2025-12-04,C2098,Customer_98,Delhi,Delhi,Furniture,Bed,Bed,3,75541,10,203960.7,183117.47,20843.23,Net Banking,3.0,1
+1099,2025-11-07,C2099,Customer_99,Delhi,Delhi,Clothing,Shirt,Shirt,1,79682,25,59761.5,44762.45,14999.05,Cash,3.0,4
+1100,2025-08-14,C2100,Customer_100,Delhi,Delhi,Furniture,Chair,Chair,3,18127,25,40785.75,25660.32,15125.43,UPI,1.0,5
+1101,2025-10-04,C2101,Customer_101,Chennai,Tamil Nadu,Clothing,Jeans,Jeans,3,43023,25,96801.75,70147.48,26654.27,Cash,2.0,3
+1102,2025-02-08,C2102,Customer_102,Hyderabad,Telangana,Clothing,Jeans,Jeans,4,38884,25,116652.0,100451.26,16200.74,Card,1.0,8
+1103,2025-10-02,C2103,Customer_103,Surat,Gujarat,Furniture,Bed,Bed,5,48142,0,240710.0,201523.52,39186.48,UPI,1.0,5
+1104,2025-12-12,C2104,Customer_104,Pune,Maharashtra,Grocery,Snacks,Snacks,3,76819,15,195888.45,165863.69,30024.76,Card,3.0,2
+1105,2025-12-25,C2105,Customer_105,Delhi,Delhi,Grocery,Rice,Rice,5,43192,20,172768.0,115134.35,57633.65,Cash,1.0,8
+1106,2025-05-01,C2106,Customer_106,Bengaluru,Karnataka,Grocery,Rice,Rice,1,5077,10,4569.3,4106.79,462.51,Card,1.0,2
+1107,2025-12-02,C2107,Customer_107,Hyderabad,Telangana,Grocery,Tea,Tea,5,55135,20,220540.0,181434.0,39106.0,UPI,2.0,7
+1108,2025-02-20,C2108,Customer_108,Hyderabad,Telangana,Grocery,Tea,Tea,1,48766,5,46327.7,33958.9,12368.8,Cash,2.0,6
+1109,2025-12-06,C2109,Customer_109,Mumbai,Maharashtra,Clothing,Shirt,Shirt,3,25078,0,75234.0,66559.76,8674.24,Card,4.0,2
+1110,2025-10-11,C2110,Customer_110,Surat,Gujarat,Electronics,Mobile,Mobile,3,32125,5,91556.25,76549.58,15006.67,Card,2.0,2
+1111,2025-10-04,C2111,Customer_111,Hyderabad,Telangana,Furniture,Chair,Chair,2,78316,0,156632.0,107008.23,49623.77,Cash,2.0,3
+1112,2025-06-15,C2112,Customer_112,Pune,Maharashtra,Furniture,Sofa,Sofa,1,17475,0,17475.0,12363.09,5111.91,UPI,2.0,10
+1113,2025-08-18,C2113,Customer_113,Chennai,Tamil Nadu,Furniture,Table,Table,2,55376,20,88601.6,56181.81,32419.79,Cash,1.0,8
+1114,2025-08-23,C2114,Customer_114,Delhi,Delhi,Electronics,Smart Watch,Smart Watch,2,5883,25,8824.5,7368.18,1456.32,UPI,5.0,5
+1115,2025-02-11,C2115,Customer_115,Surat,Gujarat,Electronics,Smart Watch,Smart Watch,4,56072,25,168216.0,106377.87,61838.13,Cash,4.0,2
+1116,2025-09-29,C2116,Customer_116,Bengaluru,Karnataka,Furniture,Sofa,Sofa,3,76924,20,184617.6,150213.34,34404.26,Cash,4.0,10
+1117,2025-04-27,C2117,Customer_117,Chennai,Tamil Nadu,Grocery,Tea,Tea,1,72464,25,54348.0,46720.13,7627.87,Net Banking,4.0,8
+1118,2025-03-20,C2118,Customer_118,Mumbai,Maharashtra,Clothing,Shoes,Shoes,4,12663,10,45586.8,33188.52,12398.28,Net Banking,3.0,6
+1119,2025-10-12,C2119,Customer_119,Surat,Gujarat,Electronics,Mobile,Mobile,1,12419,15,10556.15,6639.49,3916.66,UPI,3.0,3
+1120,2025-06-09,C2120,Customer_120,Mumbai,Maharashtra,Clothing,Shirt,Shirt,3,55635,25,125178.75,77039.24,48139.51,Cash,3.0,10
+1121,2025-02-28,C2121,Customer_121,Bengaluru,Karnataka,Electronics,Laptop,Laptop,4,29592,0,118368.0,83453.49,34914.51,Cash,5.0,6
+1122,2025-04-03,C2122,Customer_122,Surat,Gujarat,Furniture,Bed,Bed,5,73172,0,365860.0,286358.06,79501.94,Cash,3.0,1
+1123,2025-03-14,C2123,Customer_123,Hyderabad,Telangana,Clothing,Jacket,Jacket,1,23977,5,22778.15,17536.81,5241.34,UPI,4.0,2
+1124,2025-10-18,C2124,Customer_124,Mumbai,Maharashtra,Electronics,Laptop,Laptop,4,59660,10,214776.0,139007.92,75768.08,UPI,3.0,6
+1125,2025-09-06,C2125,Customer_125,Bengaluru,Karnataka,Electronics,Laptop,Laptop,5,6722,25,25207.5,15741.44,9466.06,Net Banking,4.0,7
+1126,2025-09-07,C2126,Customer_126,Bengaluru,Karnataka,Grocery,Snacks,Snacks,5,15118,10,68031.0,49592.84,18438.16,Cash,3.0,10
+1127,2025-05-11,C2127,Customer_127,Mumbai,Maharashtra,Electronics,Laptop,Laptop,5,7380,0,36900.0,24402.96,12497.04,Cash,2.0,3
+1128,2025-09-14,C2128,Customer_128,Chennai,Tamil Nadu,Clothing,Shirt,Shirt,4,56646,5,215254.8,137495.23,77759.57,Cash,5.0,4
+1129,2025-10-22,C2129,Customer_129,Surat,Gujarat,Electronics,Smart Watch,Smart Watch,1,57376,0,57376.0,42339.26,15036.74,Net Banking,1.0,6
+1130,2025-08-24,C2130,Customer_130,Hyderabad,Telangana,Grocery,Tea,Tea,1,53288,0,53288.0,47418.85,5869.15,Cash,2.0,10
+1131,2025-07-22,C2131,Customer_131,Surat,Gujarat,Electronics,Smart Watch,Smart Watch,1,32091,15,27277.35,21185.26,6092.09,Cash,5.0,2
+1132,2025-04-10,C2132,Customer_132,Hyderabad,Telangana,Clothing,Jeans,Jeans,2,10211,20,16337.6,12906.17,3431.43,Cash,5.0,9
+1133,2025-12-02,C2133,Customer_133,Bengaluru,Karnataka,Clothing,Jeans,Jeans,1,19394,10,17454.6,11505.75,5948.85,UPI,5.0,3
+1134,2025-06-15,C2134,Customer_134,Mumbai,Maharashtra,Furniture,Bed,Bed,5,76152,15,323646.0,260321.44,63324.56,Cash,5.0,10
+1135,2025-01-29,C2135,Customer_135,Chennai,Tamil Nadu,Furniture,Bed,Bed,4,58161,25,174483.0,120540.91,53942.09,Cash,3.0,10
+1136,2025-11-27,C2136,Customer_136,Mumbai,Maharashtra,Electronics,Headphones,Headphones,4,5129,0,20516.0,14579.11,5936.89,UPI,3.0,2
+1137,2025-06-14,C2137,Customer_137,Delhi,Delhi,Grocery,Tea,Tea,5,5576,15,23698.0,20681.6,3016.4,Net Banking,5.0,4
+1138,2025-05-07,C2138,Customer_138,Mumbai,Maharashtra,Furniture,Sofa,Sofa,1,45215,25,33911.25,21204.66,12706.59,Net Banking,2.0,1
+1139,2025-01-27,C2139,Customer_139,Hyderabad,Telangana,Grocery,Oil,Oil,3,37279,15,95061.45,68694.33,26367.12,Cash,3.0,10
+1140,2025-06-20,C2140,Customer_140,Chennai,Tamil Nadu,Electronics,Headphones,Headphones,5,50867,10,228901.5,154645.56,74255.94,UPI,5.0,3
+1141,2025-10-14,C2141,Customer_141,Hyderabad,Telangana,Furniture,Table,Table,4,17101,20,54723.2,44470.82,10252.38,Net Banking,1.0,5
+1142,2025-01-10,C2142,Customer_142,Pune,Maharashtra,Clothing,Jeans,Jeans,5,12449,25,46683.75,37400.07,9283.68,,5.0,6
+1143,2025-02-09,C2143,Customer_143,Bengaluru,Karnataka,Clothing,Jeans,Jeans,3,63936,5,182217.6,121714.6,60503.0,Cash,2.0,3
+1144,2025-12-21,C2144,Customer_144,Pune,Maharashtra,Electronics,Mobile,Mobile,3,17376,20,41702.4,29734.48,11967.92,Card,2.0,3
+1145,2025-10-01,C2145,Customer_145,Mumbai,Maharashtra,Grocery,Rice,Rice,3,31333,15,79899.15,62575.31,17323.84,Card,4.0,4
+1146,2025-05-25,C2146,Customer_146,Surat,Gujarat,Clothing,Shoes,Shoes,2,48413,25,72619.5,64205.74,8413.76,Net Banking,4.0,8
+1147,2025-07-10,C2147,Customer_147,Surat,Gujarat,Grocery,Oil,Oil,2,79454,5,150962.6,130114.75,20847.85,UPI,1.0,8
+1148,2025-02-16,C2148,Customer_148,Chennai,Tamil Nadu,Electronics,Headphones,Headphones,2,35955,15,61123.5,53274.75,7848.75,Card,2.0,7
+1149,2025-02-11,C2149,Customer_149,Chennai,Tamil Nadu,Grocery,Snacks,Snacks,4,7180,15,24412.0,18323.7,6088.3,Cash,2.0,7
+1150,2025-12-23,C2150,Customer_150,Hyderabad,Telangana,Furniture,Sofa,Sofa,1,44147,5,41939.65,26895.05,15044.6,Card,3.0,8
+1151,2025-11-08,C2151,Customer_151,Delhi,Delhi,Grocery,Tea,Tea,1,10584,0,10584.0,7163.01,3420.99,Net Banking,2.0,9
+1152,2025-02-02,C2152,Customer_152,Bengaluru,Karnataka,Electronics,Headphones,Headphones,3,16170,0,48510.0,32576.01,15933.99,UPI,5.0,8
+1153,2025-01-01,C2153,Customer_153,Pune,Maharashtra,Grocery,Rice,Rice,5,75572,5,358967.0,292760.31,66206.69,Cash,3.0,7
+1154,2025-09-17,C2154,Customer_154,Bengaluru,Karnataka,Furniture,Bed,Bed,1,68814,10,61932.6,38417.03,23515.57,UPI,5.0,9
+1155,2025-06-26,C2155,Customer_155,Chennai,Tamil Nadu,Grocery,Tea,Tea,4,49129,10,176864.4,145770.75,31093.65,Card,3.0,2
+1156,2025-12-23,C2156,Customer_156,Bengaluru,Karnataka,Electronics,Headphones,Headphones,1,46376,20,37100.8,26028.59,11072.21,Net Banking,2.0,8
+1157,2025-06-11,C2157,Customer_157,Chennai,Tamil Nadu,Furniture,Chair,Chair,4,5047,10,18169.2,12000.34,6168.86,Cash,2.0,1
+1158,2025-05-20,C2158,Customer_158,Hyderabad,Telangana,Grocery,Tea,Tea,1,25248,10,22723.2,16067.4,6655.8,UPI,1.0,6
+1159,2025-07-08,C2159,Customer_159,Mumbai,Maharashtra,Clothing,Shoes,Shoes,4,50878,10,183160.8,163400.88,19759.92,Cash,4.0,8
+1160,2025-02-10,C2160,Customer_160,Chennai,Tamil Nadu,Electronics,Smart Watch,Smart Watch,4,79164,5,300823.2,229721.33,71101.87,Cash,3.0,2
+1161,2025-01-22,C2161,Customer_161,Mumbai,Maharashtra,Clothing,Jacket,Jacket,5,56051,5,266242.25,214838.71,51403.54,Cash,3.0,8
+1162,2025-12-14,C2162,Customer_162,Pune,Maharashtra,Grocery,Snacks,Snacks,1,10035,25,7526.25,5955.17,1571.08,Card,3.0,9
+1163,2025-07-05,C2163,Customer_163,Surat,Gujarat,Electronics,Laptop,Laptop,5,57632,0,288160.0,183808.33,104351.67,Net Banking,2.0,6
+1164,2025-03-12,C2164,Customer_164,Pune,Maharashtra,Electronics,Laptop,Laptop,4,48823,10,175762.8,128866.08,46896.72,Cash,1.0,10
+1165,2025-09-23,C2165,Customer_165,Pune,Maharashtra,Grocery,Snacks,Snacks,3,32917,0,98751.0,60018.29,38732.71,Net Banking,2.0,8
+1166,2025-04-13,C2166,Customer_166,Surat,Gujarat,Electronics,Headphones,Headphones,3,58693,5,167275.05,150365.14,16909.91,UPI,3.0,8
+1167,2025-12-30,C2167,Customer_167,Mumbai,Maharashtra,Furniture,Sofa,Sofa,2,58541,0,117082.0,98718.15,18363.85,UPI,3.0,6
+1168,2025-03-13,C2168,Customer_168,Surat,Gujarat,Clothing,Jacket,Jacket,2,23018,10,41432.4,31183.13,10249.27,Card,1.0,4
+1169,2025-11-10,C2169,Customer_169,Hyderabad,Telangana,Grocery,Rice,Rice,5,75209,10,338440.5,250521.02,87919.48,UPI,5.0,3
+1170,2025-03-06,C2170,Customer_170,Mumbai,Maharashtra,Electronics,Headphones,Headphones,4,69103,15,234950.2,195184.73,39765.47,Cash,5.0,2
+1171,2025-04-04,C2171,Customer_171,Mumbai,Maharashtra,Electronics,Smart Watch,Smart Watch,5,45356,5,215441.0,186009.18,29431.82,Card,5.0,10
+1172,2025-12-30,C2172,Customer_172,Surat,Gujarat,Grocery,Rice,Rice,1,68108,5,64702.6,44724.85,19977.75,Card,2.0,6
+1173,2025-03-06,C2173,Customer_173,Surat,Gujarat,Clothing,Jacket,Jacket,1,33047,5,31394.65,24818.01,6576.64,Cash,5.0,5
+1174,2025-10-16,C2174,Customer_174,Delhi,Delhi,Electronics,Laptop,Laptop,5,20410,5,96947.5,77327.25,19620.25,UPI,5.0,6
+1175,2025-11-13,C2175,Customer_175,Chennai,Tamil Nadu,Electronics,Mobile,Mobile,5,34888,25,130830.0,86772.02,44057.98,UPI,5.0,7
+1176,2025-08-21,C2176,Customer_176,Pune,Maharashtra,Grocery,Snacks,Snacks,3,63500,5,180975.0,152273.53,28701.47,UPI,4.0,5
+1177,2025-06-10,C2177,Customer_177,Mumbai,Maharashtra,Electronics,Laptop,Laptop,4,63671,15,216481.4,143139.0,73342.4,Cash,5.0,3
+1178,2025-03-04,C2178,Customer_178,Bengaluru,Karnataka,Clothing,Shoes,Shoes,3,67699,20,162477.6,102662.31,59815.29,Cash,2.0,8
+1179,2025-05-08,C2179,Customer_179,Bengaluru,Karnataka,Grocery,Oil,Oil,1,6832,10,6148.8,5433.17,715.63,Card,5.0,7
+1180,2025-01-12,C2180,Customer_180,Bengaluru,Karnataka,Clothing,Jacket,Jacket,2,65508,20,104812.8,77566.14,27246.66,UPI,3.0,8
+1181,2025-11-02,C2181,Customer_181,Bengaluru,Karnataka,Grocery,Tea,Tea,2,76660,10,137988.0,84807.07,53180.93,Net Banking,3.0,8
+1182,2025-07-07,C2182,Customer_182,Surat,Gujarat,Clothing,Shirt,Shirt,1,56682,5,53847.9,46564.26,7283.64,UPI,3.0,7
+1183,2025-09-16,C2183,Customer_183,Delhi,Delhi,Grocery,Rice,Rice,5,25713,10,115708.5,88628.88,27079.62,Net Banking,1.0,7
+1184,2025-07-07,C2184,Customer_184,Bengaluru,Karnataka,Clothing,Shirt,Shirt,1,51829,10,46646.1,39111.32,7534.78,Card,3.0,9
+1185,2025-09-23,C2185,Customer_185,Delhi,Delhi,Furniture,Bed,Bed,1,6138,0,6138.0,3935.14,2202.86,Net Banking,3.0,8
+1186,2025-10-31,C2186,Customer_186,Hyderabad,Telangana,Furniture,Chair,Chair,5,41950,5,199262.5,143047.83,56214.67,Cash,5.0,5
+1187,2025-06-07,C2187,Customer_187,Mumbai,Maharashtra,Grocery,Snacks,Snacks,1,48481,10,43632.9,34999.78,8633.12,UPI,4.0,10
+1188,2025-03-29,C2188,Customer_188,Pune,Maharashtra,Grocery,Snacks,Snacks,5,75911,5,360577.25,294382.49,66194.76,Net Banking,5.0,8
+1189,2025-03-19,C2189,Customer_189,Chennai,Tamil Nadu,Furniture,Chair,Chair,5,14604,5,69369.0,42015.5,27353.5,Net Banking,3.0,7
+1190,2025-04-17,C2190,Customer_190,Delhi,Delhi,Furniture,Bed,Bed,5,62014,25,232552.5,190279.25,42273.25,Cash,2.0,9
+1191,2025-11-09,C2191,Customer_191,Hyderabad,Telangana,Grocery,Tea,Tea,2,60449,20,96718.4,67963.84,28754.56,Net Banking,3.0,5
+1192,2025-12-27,C2192,Customer_192,Hyderabad,Telangana,Furniture,Chair,Chair,5,39324,5,186789.0,164831.14,21957.86,Card,3.0,5
+1193,2025-12-13,C2193,Customer_193,Mumbai,Maharashtra,Grocery,Snacks,Snacks,3,73664,25,165744.0,113043.58,52700.42,Net Banking,1.0,10
+1194,2025-08-15,C2194,Customer_194,Surat,Gujarat,Grocery,Snacks,Snacks,2,38270,0,76540.0,52528.57,24011.43,Cash,1.0,6
+1195,2025-11-12,C2195,Customer_195,Bengaluru,Karnataka,Grocery,Oil,Oil,5,35737,20,142948.0,115623.69,27324.31,Card,2.0,2
+1196,2025-06-19,C2196,Customer_196,Pune,Maharashtra,Furniture,Sofa,Sofa,5,29779,25,111671.25,74803.09,36868.16,Net Banking,1.0,7
+1197,2025-11-30,C2197,Customer_197,Chennai,Tamil Nadu,Electronics,Laptop,Laptop,5,20901,15,88829.25,70696.34,18132.91,Card,4.0,8
+1198,2025-03-31,C2198,Customer_198,Hyderabad,Telangana,Clothing,Jacket,Jacket,1,11925,25,8943.75,6906.72,2037.03,Net Banking,5.0,1
+1199,2025-01-05,C2199,Customer_199,Surat,Gujarat,Furniture,Sofa,Sofa,4,65130,5,247494.0,218037.91,29456.09,Cash,3.0,1
+1200,2025-08-28,C2200,Customer_200,Hyderabad,Telangana,Electronics,Headphones,Headphones,4,71411,20,228515.2,170969.07,57546.13,Cash,2.0,9
+1201,2025-06-22,C2201,Customer_201,Hyderabad,Telangana,Furniture,Sofa,Sofa,2,60350,25,90525.0,61301.67,29223.33,Cash,2.0,1
+1202,2025-04-05,C2202,Customer_202,Delhi,Delhi,Furniture,Chair,Chair,4,56259,20,180028.8,125728.15,54300.65,Card,4.0,2
+1203,2025-06-04,C2203,Customer_203,Bengaluru,Karnataka,Grocery,Snacks,Snacks,1,34381,15,29223.85,19599.16,9624.69,UPI,3.0,6
+1204,2025-07-27,C2204,Customer_204,Pune,Maharashtra,Clothing,Jacket,Jacket,2,8342,25,12513.0,7951.6,4561.4,Cash,3.0,3
+1205,2025-08-21,C2205,Customer_205,Hyderabad,Telangana,Electronics,Headphones,Headphones,5,29147,5,138448.25,122832.42,15615.83,Cash,4.0,3
+1206,2025-09-27,C2206,Customer_206,Surat,Gujarat,Grocery,Tea,Tea,5,28827,5,136928.25,110104.36,26823.89,Net Banking,5.0,2
+1207,2025-10-02,C2207,Customer_207,Delhi,Delhi,Clothing,Shirt,Shirt,1,8294,20,6635.2,5778.37,856.83,Card,2.0,10
+1208,2025-02-16,C2208,Customer_208,Surat,Gujarat,Furniture,Table,Table,5,58112,0,290560.0,233635.98,56924.02,Net Banking,5.0,8
+1209,2025-12-11,C2209,Customer_209,Bengaluru,Karnataka,Electronics,Smart Watch,Smart Watch,5,54650,15,232262.5,178650.13,53612.37,Cash,5.0,8
+1210,2025-12-25,C2210,Customer_210,Hyderabad,Telangana,Electronics,Smart Watch,Smart Watch,1,28760,20,23008.0,14308.88,8699.12,UPI,4.0,6
+1211,2025-07-11,C2211,Customer_211,Mumbai,Maharashtra,Electronics,Mobile,Mobile,1,37829,15,32154.65,21028.96,11125.69,Net Banking,2.0,7
+1212,2025-04-02,C2212,Customer_212,Mumbai,Maharashtra,Grocery,Tea,Tea,1,70887,5,67342.65,53608.81,13733.84,Net Banking,3.0,2
+1213,2025-09-30,C2213,Customer_213,Surat,Gujarat,Furniture,Chair,Chair,1,3179,10,2861.1,2114.07,747.03,Net Banking,5.0,7
+1214,2025-12-05,C2214,Customer_214,Mumbai,Maharashtra,Furniture,Chair,Chair,3,20532,10,55436.4,36396.44,19039.96,Net Banking,1.0,1
+1215,2025-05-06,C2215,Customer_215,Bengaluru,Karnataka,Electronics,Laptop,Laptop,1,13424,20,10739.2,6551.69,4187.51,UPI,5.0,1
+1216,2025-10-22,C2216,Customer_216,Bengaluru,Karnataka,Grocery,Tea,Tea,5,28677,0,143385.0,92059.0,51326.0,Cash,3.0,4
+1217,2025-10-13,C2217,Customer_217,Hyderabad,Telangana,Clothing,Jeans,Jeans,2,68521,5,130189.9,94266.35,35923.55,Card,3.0,1
+1218,2025-03-18,C2218,Customer_218,Chennai,Tamil Nadu,Grocery,Tea,Tea,3,50158,20,120379.2,83738.22,36640.98,Cash,4.0,7
+1219,2025-08-26,C2219,Customer_219,Surat,Gujarat,Grocery,Oil,Oil,5,62265,5,295758.75,252815.25,42943.5,UPI,3.0,3
+1220,2025-11-28,C2220,Customer_220,Delhi,Delhi,Grocery,Tea,Tea,5,17775,15,75543.75,50830.18,24713.57,UPI,2.0,6
+1221,2025-01-21,C2221,Customer_221,Chennai,Tamil Nadu,Grocery,Snacks,Snacks,5,25166,0,125830.0,85632.16,40197.84,UPI,5.0,10
+1222,2025-04-08,C2222,Customer_222,Mumbai,Maharashtra,Furniture,Chair,Chair,2,43842,10,78915.6,70006.5,8909.1,UPI,1.0,4
+1223,2025-05-25,C2223,Customer_223,Pune,Maharashtra,Grocery,Oil,Oil,5,27005,15,114771.25,100371.81,14399.44,Net Banking,5.0,6
+1224,2025-08-29,C2224,Customer_224,Hyderabad,Telangana,Grocery,Snacks,Snacks,3,47339,20,113613.6,98257.99,15355.61,Cash,4.0,2
+1225,2025-05-14,C2225,Customer_225,Hyderabad,Telangana,Furniture,Table,Table,4,6192,20,19814.4,17025.04,2789.36,Net Banking,2.0,1
+1226,2025-10-09,C2226,Customer_226,Bengaluru,Karnataka,Clothing,Jeans,Jeans,3,30349,15,77389.95,59662.76,17727.19,Cash,2.0,8
+1227,2025-03-13,C2227,Customer_227,Pune,Maharashtra,Clothing,Shoes,Shoes,4,60601,5,230283.8,188793.95,41489.85,Net Banking,3.0,3
+1228,2025-03-12,C2228,Customer_228,Delhi,Delhi,Furniture,Sofa,Sofa,1,9942,25,7456.5,4582.42,2874.08,Card,1.0,7
+1229,2025-09-05,C2229,Customer_229,Chennai,Tamil Nadu,Electronics,Laptop,Laptop,2,66487,15,113027.9,80471.37,32556.53,Net Banking,5.0,10
+1230,2025-05-27,C2230,Customer_230,Delhi,Delhi,Electronics,Mobile,Mobile,5,54114,0,270570.0,163699.68,106870.32,UPI,3.0,9
+1231,2025-05-10,C2231,Customer_231,Chennai,Tamil Nadu,Grocery,Oil,Oil,1,68932,5,65485.4,44025.22,21460.18,Cash,5.0,9
+1232,2025-12-17,C2232,Customer_232,Chennai,Tamil Nadu,Clothing,Shoes,Shoes,3,53418,15,136215.9,104818.22,31397.68,UPI,2.0,5
+1233,2025-02-12,C2233,Customer_233,Mumbai,Maharashtra,Electronics,Mobile,Mobile,4,49636,20,158835.2,117983.03,40852.17,Net Banking,1.0,3
+1234,2025-05-19,C2234,Customer_234,Delhi,Delhi,Grocery,Snacks,Snacks,1,69426,0,69426.0,46441.13,22984.87,UPI,5.0,8
+1235,2025-04-17,C2235,Customer_235,Delhi,Delhi,Electronics,Headphones,Headphones,5,4512,5,21432.0,18830.8,2601.2,Card,3.0,1
+1236,2025-06-19,C2236,Customer_236,Hyderabad,Telangana,Grocery,Rice,Rice,2,74119,5,140826.1,108437.33,32388.77,Net Banking,4.0,9
+1237,2025-11-06,C2237,Customer_237,Delhi,Delhi,Furniture,Sofa,Sofa,3,7238,0,21714.0,15875.68,5838.32,Net Banking,1.0,6
+1238,2025-08-10,C2238,Customer_238,Pune,Maharashtra,Clothing,Shirt,Shirt,3,59254,15,151097.7,100999.98,50097.72,Card,5.0,7
+1239,2025-03-20,C2239,Customer_239,Surat,Gujarat,Grocery,Rice,Rice,5,38915,5,184846.25,150452.38,34393.87,Net Banking,1.0,5
+1240,2025-07-04,C2240,Customer_240,Hyderabad,Telangana,Furniture,Bed,Bed,3,14165,0,42495.0,25563.23,16931.77,Cash,3.0,8
+1241,2025-02-22,C2241,Customer_241,Chennai,Tamil Nadu,Electronics,Laptop,Laptop,2,56689,15,96371.3,73925.99,22445.31,UPI,5.0,7
+1242,2025-05-30,C2242,Customer_242,Delhi,Delhi,Electronics,Headphones,Headphones,1,78440,20,62752.0,52418.73,10333.27,Net Banking,4.0,1
+1243,2025-03-13,C2243,Customer_243,Pune,Maharashtra,Grocery,Rice,Rice,5,32016,20,128064.0,96858.82,31205.18,Cash,4.0,3
+1244,2025-09-05,C2244,Customer_244,Mumbai,Maharashtra,Clothing,Jacket,Jacket,2,8492,5,16134.8,11784.9,4349.9,UPI,4.0,5
+1245,2025-06-05,C2245,Customer_245,Bengaluru,Karnataka,Clothing,Jacket,Jacket,4,78031,20,249699.2,164467.99,85231.21,UPI,1.0,3
+1246,2025-03-11,C2246,Customer_246,Surat,Gujarat,Grocery,Snacks,Snacks,5,49992,10,224964.0,164688.69,60275.31,Cash,4.0,10
+1247,2025-10-22,C2247,Customer_247,Mumbai,Maharashtra,Clothing,Jeans,Jeans,3,23483,15,59881.65,53331.65,6550.0,Card,3.0,8
+1248,2025-10-07,C2248,Customer_248,Hyderabad,Telangana,Clothing,Shoes,Shoes,4,48043,0,192172.0,169038.36,23133.64,Card,2.0,10
+1249,2025-12-11,C2249,Customer_249,Pune,Maharashtra,Electronics,Smart Watch,Smart Watch,2,57669,10,103804.2,88169.68,15634.52,Net Banking,1.0,7
+1250,2025-08-18,C2250,Customer_250,Bengaluru,Karnataka,Furniture,Table,Table,3,20403,25,45906.75,33371.38,12535.37,Net Banking,4.0,2
+1251,2025-11-23,C2251,Customer_251,Delhi,Delhi,Grocery,Tea,Tea,1,47324,25,35493.0,30831.01,4661.99,UPI,5.0,10
+1252,2025-06-19,C2252,Customer_252,Pune,Maharashtra,Electronics,Laptop,Laptop,3,22002,25,49504.5,38801.79,10702.71,Net Banking,5.0,7
+1253,2025-12-19,C2253,Customer_253,Chennai,Tamil Nadu,Electronics,Mobile,Mobile,3,29298,20,70315.2,57943.66,12371.54,Card,5.0,10
+1254,2025-09-05,C2254,Customer_254,Mumbai,Maharashtra,Grocery,Snacks,Snacks,4,77347,25,232041.0,174063.17,57977.83,UPI,3.0,1
+1255,2025-09-24,C2255,Customer_255,Chennai,Tamil Nadu,Clothing,Shoes,Shoes,1,18769,10,16892.1,11715.8,5176.3,Net Banking,4.0,4
+1256,2025-01-12,C2256,Customer_256,Chennai,Tamil Nadu,Clothing,Shoes,Shoes,4,59503,10,214210.8,132843.32,81367.48,Cash,1.0,2
+1257,2025-08-07,C2257,Customer_257,Pune,Maharashtra,Electronics,Laptop,Laptop,2,67832,5,128880.8,98667.67,30213.13,Net Banking,3.0,9
+1258,2025-11-11,C2258,Customer_258,Pune,Maharashtra,Furniture,Bed,Bed,2,24630,25,36945.0,29452.27,7492.73,Card,4.0,1
+1259,2025-02-22,C2259,Customer_259,Mumbai,Maharashtra,Grocery,Tea,Tea,1,28353,5,26935.35,18410.4,8524.95,Card,1.0,10
+1260,2025-11-24,C2260,Customer_260,Bengaluru,Karnataka,Clothing,Jacket,Jacket,4,15136,10,54489.6,43657.64,10831.96,Cash,4.0,9
+1261,2025-12-11,C2261,Customer_261,Delhi,Delhi,Grocery,Tea,Tea,1,45803,10,41222.7,35189.98,6032.72,Cash,5.0,3
+1262,2025-09-19,C2262,Customer_262,Hyderabad,Telangana,Electronics,Laptop,Laptop,1,31470,10,28323.0,17987.5,10335.5,,3.0,3
+1263,2025-10-12,C2263,Customer_263,Delhi,Delhi,Grocery,Oil,Oil,4,55648,5,211462.4,157751.18,53711.22,Card,5.0,3
+1264,2025-09-06,C2264,Customer_264,Bengaluru,Karnataka,Grocery,Snacks,Snacks,2,41432,15,70434.4,55348.97,15085.43,Card,3.0,1
+1265,2025-09-08,C2265,Customer_265,Delhi,Delhi,Furniture,Bed,Bed,5,65076,15,276573.0,222754.38,53818.62,Card,4.0,8
+1266,2025-03-28,C2266,Customer_266,Surat,Gujarat,Electronics,Mobile,Mobile,2,38484,0,76968.0,52527.26,24440.74,Net Banking,5.0,5
+1267,2025-01-22,C2267,Customer_267,Delhi,Delhi,Grocery,Rice,Rice,1,35312,20,28249.6,23926.98,4322.62,Net Banking,3.0,9
+1268,2025-08-13,C2268,Customer_268,Chennai,Tamil Nadu,Furniture,Bed,Bed,2,39221,0,78442.0,57648.57,20793.43,UPI,3.0,2
+1269,2025-11-12,C2269,Customer_269,Surat,Gujarat,Furniture,Chair,Chair,5,46157,25,173088.75,135542.09,37546.66,Card,4.0,3
+1270,2025-03-28,C2270,Customer_270,Surat,Gujarat,Furniture,Chair,Chair,1,74920,10,67428.0,51223.99,16204.01,Cash,5.0,9
+1271,2025-01-31,C2271,Customer_271,Delhi,Delhi,Clothing,Jacket,Jacket,3,67625,25,152156.25,128504.21,23652.04,Cash,2.0,7
+1272,2025-03-14,C2272,Customer_272,Bengaluru,Karnataka,Furniture,Chair,Chair,2,42417,5,80592.3,66766.05,13826.25,Cash,4.0,8
+1273,2025-08-21,C2273,Customer_273,Mumbai,Maharashtra,Grocery,Tea,Tea,1,12402,15,10541.7,7955.65,2586.05,Net Banking,3.0,6
+1274,2025-10-01,C2274,Customer_274,Surat,Gujarat,Clothing,Shirt,Shirt,1,60289,25,45216.75,36139.18,9077.57,Net Banking,3.0,2
+1275,2025-10-08,C2275,Customer_275,Surat,Gujarat,Furniture,Bed,Bed,2,65043,10,117077.4,81586.5,35490.9,Card,3.0,6
+1276,2025-03-05,C2276,Customer_276,Pune,Maharashtra,Grocery,Snacks,Snacks,1,6221,0,6221.0,4901.24,1319.76,Card,4.0,1
+1277,2025-05-21,C2277,Customer_277,Chennai,Tamil Nadu,Grocery,Tea,Tea,4,26718,25,80154.0,69960.19,10193.81,UPI,3.0,3
+1278,2025-08-08,C2278,Customer_278,Chennai,Tamil Nadu,Clothing,Jacket,Jacket,3,21895,0,65685.0,47221.11,18463.89,UPI,3.0,4
+1279,2025-01-05,C2279,Customer_279,Bengaluru,Karnataka,Electronics,Mobile,Mobile,4,10415,5,39577.0,30795.02,8781.98,UPI,5.0,8
+1280,2025-02-22,C2280,Customer_280,Surat,Gujarat,Clothing,Shirt,Shirt,4,17524,15,59581.6,37014.98,22566.62,UPI,4.0,2
+1281,2025-09-29,C2281,Customer_281,Hyderabad,Telangana,Clothing,Jacket,Jacket,2,50364,5,95691.6,75832.99,19858.61,UPI,2.0,2
+1282,2025-02-14,C2282,Customer_282,Hyderabad,Telangana,Furniture,Bed,Bed,2,20040,15,34068.0,26737.34,7330.66,UPI,4.0,4
+1283,2025-05-22,C2283,Customer_283,Delhi,Delhi,Furniture,Sofa,Sofa,4,46276,15,157338.4,109248.09,48090.31,UPI,2.0,4
+1284,2025-07-20,C2284,Customer_284,Surat,Gujarat,Furniture,Table,Table,1,39737,5,37750.15,28513.62,9236.53,,5.0,4
+1285,2025-09-28,C2285,Customer_285,Mumbai,Maharashtra,Electronics,Laptop,Laptop,4,14977,5,56912.6,42677.32,14235.28,,5.0,2
+1286,2025-02-07,C2286,Customer_286,Bengaluru,Karnataka,Clothing,Jacket,Jacket,4,74698,15,253973.2,180225.41,73747.79,UPI,2.0,8
+1287,2025-05-27,C2287,Customer_287,Hyderabad,Telangana,Electronics,Mobile,Mobile,2,5420,0,10840.0,9589.11,1250.89,Net Banking,4.0,9
+1288,2025-02-10,C2288,Customer_288,Chennai,Tamil Nadu,Grocery,Tea,Tea,5,70671,20,282684.0,182558.5,100125.5,Card,1.0,5
+1289,2025-05-06,C2289,Customer_289,Mumbai,Maharashtra,Furniture,Table,Table,5,8865,10,39892.5,32297.08,7595.42,UPI,2.0,1
+1290,2025-01-07,C2290,Customer_290,Mumbai,Maharashtra,Grocery,Rice,Rice,5,80000,0,400000.0,277114.81,122885.19,Card,2.0,2
+1291,2025-07-10,C2291,Customer_291,Mumbai,Maharashtra,Electronics,Laptop,Laptop,3,68751,20,165002.4,137759.87,27242.53,Card,3.0,3
+1292,2025-12-31,C2292,Customer_292,Surat,Gujarat,Clothing,Shirt,Shirt,1,44110,15,37493.5,25555.35,11938.15,UPI,1.0,5
+1293,2025-03-22,C2293,Customer_293,Delhi,Delhi,Grocery,Tea,Tea,3,7466,15,19038.3,16331.2,,Cash,2.0,6
+1294,2025-01-24,C2294,Customer_294,Bengaluru,Karnataka,Electronics,Mobile,Mobile,5,536,0,2680.0,2298.39,381.61,Net Banking,1.0,4
+1295,2025-06-14,C2295,Customer_295,Bengaluru,Karnataka,Clothing,Shoes,Shoes,2,4835,20,7736.0,6505.47,1230.53,Card,4.0,4
+1296,2025-04-25,C2296,Customer_296,Hyderabad,Telangana,Grocery,Snacks,Snacks,1,75112,10,67600.8,42981.96,24618.84,UPI,1.0,3
+1297,2025-07-08,C2297,Customer_297,Mumbai,Maharashtra,Grocery,Rice,Rice,3,40923,10,110492.1,69158.74,41333.36,Card,4.0,1
+1298,2025-10-07,C2298,Customer_298,Pune,Maharashtra,Clothing,Jacket,Jacket,5,31995,15,135978.75,96610.47,39368.28,Card,4.0,4
+1299,2025-01-01,C2299,Customer_299,Mumbai,Maharashtra,Furniture,Sofa,Sofa,1,30739,20,24591.2,17310.41,7280.79,Net Banking,1.0,6
+1300,2025-12-31,C2300,Customer_300,Bengaluru,Karnataka,Clothing,Shirt,Shirt,5,31417,15,133522.25,99822.39,33699.86,Cash,1.0,3
+1301,2025-10-25,C2301,Customer_301,Bengaluru,Karnataka,Electronics,Mobile,Mobile,5,54340,25,203775.0,177013.92,26761.08,UPI,4.0,2
+1302,2025-05-30,C2302,Customer_302,Chennai,Tamil Nadu,Furniture,Bed,Bed,5,74625,0,373125.0,272565.9,100559.1,Cash,2.0,4
+1303,2025-03-11,C2303,Customer_303,Pune,Maharashtra,Clothing,Shoes,Shoes,3,41888,15,106814.4,72803.28,34011.12,UPI,1.0,4
+1304,2025-04-17,C2304,Customer_304,Bengaluru,Karnataka,Furniture,Sofa,Sofa,4,61286,10,220629.6,159284.37,61345.23,Net Banking,5.0,6
+1305,2025-01-21,C2305,Customer_305,Hyderabad,Telangana,Clothing,Shoes,Shoes,1,12051,5,11448.45,9642.79,1805.66,Card,3.0,10
+1306,2025-03-31,C2306,Customer_306,Chennai,Tamil Nadu,Clothing,Jeans,Jeans,2,46827,15,79605.9,60025.87,19580.03,UPI,3.0,5
+1307,2025-01-07,C2307,Customer_307,Delhi,Delhi,Grocery,Tea,Tea,5,32948,0,164740.0,121679.1,43060.9,UPI,2.0,2
+1308,2025-10-28,C2308,Customer_308,Bengaluru,Karnataka,Furniture,Chair,Chair,4,48990,25,146970.0,115972.45,30997.55,Cash,1.0,10
+1309,2025-01-22,C2309,Customer_309,Chennai,Tamil Nadu,Electronics,Mobile,Mobile,2,58321,5,110809.9,69543.58,41266.32,Net Banking,3.0,2
+1310,2025-07-01,C2310,Customer_310,Delhi,Delhi,Electronics,Laptop,Laptop,4,51973,15,176708.2,107587.85,69120.35,Card,4.0,3
+1311,2025-11-28,C2311,Customer_311,Hyderabad,Telangana,Furniture,Table,Table,4,19681,0,78724.0,61737.88,16986.12,Cash,5.0,4
+1312,2025-04-13,C2312,Customer_312,Delhi,Delhi,Grocery,Tea,Tea,4,8192,0,32768.0,22411.11,10356.89,Card,2.0,7
+1313,2025-09-15,C2313,Customer_313,Surat,Gujarat,Electronics,Smart Watch,Smart Watch,3,63073,20,151375.2,126312.09,25063.11,Cash,3.0,10
+1314,2025-08-30,C2314,Customer_314,Bengaluru,Karnataka,Grocery,Snacks,Snacks,1,41995,20,33596.0,22365.06,11230.94,Cash,3.0,1
+1315,2025-10-22,C2315,Customer_315,Chennai,Tamil Nadu,Furniture,Chair,Chair,2,31808,10,57254.4,43519.46,13734.94,Net Banking,1.0,4
+1316,2025-01-15,C2316,Customer_316,Bengaluru,Karnataka,Clothing,Jeans,Jeans,2,77862,10,140151.6,117988.46,22163.14,Cash,3.0,10
+1317,2025-01-29,C2317,Customer_317,Surat,Gujarat,Furniture,Chair,Chair,4,71257,10,256525.2,167425.54,89099.66,Card,1.0,2
+1318,2025-06-24,C2318,Customer_318,Delhi,Delhi,Furniture,Sofa,Sofa,4,289,10,1040.4,910.73,129.67,Card,2.0,3
+1319,2025-07-06,C2319,Customer_319,Chennai,Tamil Nadu,Clothing,Shirt,Shirt,2,77088,25,115632.0,101197.34,14434.66,UPI,1.0,9
+1320,2025-11-24,C2320,Customer_320,Delhi,Delhi,Clothing,Shoes,Shoes,1,44313,10,39881.7,27788.81,12092.89,Net Banking,2.0,7
+1321,2025-06-07,C2321,Customer_321,Pune,Maharashtra,Clothing,Jeans,Jeans,5,46969,5,223102.75,178406.23,44696.52,Cash,2.0,7
+1322,2025-04-04,C2322,Customer_322,Pune,Maharashtra,Furniture,Chair,Chair,1,75282,15,63989.7,54725.72,9263.98,Cash,5.0,1
+1323,2025-03-27,C2323,Customer_323,Mumbai,Maharashtra,Furniture,Sofa,Sofa,2,43606,25,65409.0,40772.18,24636.82,UPI,3.0,6
+1324,2025-02-25,C2324,Customer_324,Chennai,Tamil Nadu,Clothing,Shoes,Shoes,3,27683,5,78896.55,63744.69,15151.86,UPI,3.0,5
+1325,2025-10-07,C2325,Customer_325,Mumbai,Maharashtra,Electronics,Smart Watch,Smart Watch,4,22002,15,74806.8,55949.85,18856.95,Net Banking,4.0,6
+1326,2025-01-11,C2326,Customer_326,Surat,Gujarat,Electronics,Smart Watch,Smart Watch,5,29767,5,141393.25,103978.65,37414.6,Cash,1.0,5
+1327,2025-02-17,C2327,Customer_327,Chennai,Tamil Nadu,Clothing,Shirt,Shirt,3,22496,15,57364.8,37187.96,20176.84,Cash,1.0,9
+1328,2025-04-16,C2328,Customer_328,Mumbai,Maharashtra,Grocery,Rice,Rice,2,79802,15,135663.4,87792.01,47871.39,Card,1.0,6
+1329,2025-10-09,C2329,Customer_329,Pune,Maharashtra,Grocery,Snacks,Snacks,3,39180,5,111663.0,70210.88,41452.12,Net Banking,4.0,10
+1330,2025-04-13,C2330,Customer_330,Hyderabad,Telangana,Furniture,Sofa,Sofa,1,56247,0,56247.0,38718.46,17528.54,UPI,5.0,8
+1331,2025-08-30,C2331,Customer_331,Bengaluru,Karnataka,Electronics,Laptop,Laptop,3,10939,15,27894.45,23797.61,4096.84,Net Banking,3.0,7
+1332,2025-04-06,C2332,Customer_332,Pune,Maharashtra,Clothing,Shirt,Shirt,5,50993,5,242216.75,172290.27,69926.48,Net Banking,4.0,6
+1333,2025-03-19,C2333,Customer_333,Mumbai,Maharashtra,Electronics,Headphones,Headphones,4,34724,5,131951.2,112306.78,19644.42,UPI,5.0,1
+1334,2025-09-25,C2334,Customer_334,Surat,Gujarat,Electronics,Headphones,Headphones,5,54462,20,217848.0,145577.76,72270.24,Net Banking,1.0,7
+1335,2025-10-20,C2335,Customer_335,Mumbai,Maharashtra,Grocery,Oil,Oil,3,10548,15,26897.4,23423.15,3474.25,Card,1.0,9
+1336,2025-12-16,C2336,Customer_336,Bengaluru,Karnataka,Electronics,Smart Watch,Smart Watch,2,27972,5,53146.8,33899.99,19246.81,Net Banking,4.0,2
+1337,2025-07-18,C2337,Customer_337,Surat,Gujarat,Furniture,Chair,Chair,5,34001,10,153004.5,133609.86,19394.64,Net Banking,1.0,2
+1338,2025-02-27,C2338,Customer_338,Delhi,Delhi,Clothing,Jacket,Jacket,4,1820,25,5460.0,4296.57,1163.43,Net Banking,5.0,7
+1339,2025-05-27,C2339,Customer_339,Delhi,Delhi,Furniture,Chair,Chair,5,76572,0,382860.0,335951.4,46908.6,Cash,5.0,2
+1340,2025-07-26,C2340,Customer_340,Mumbai,Maharashtra,Grocery,Snacks,Snacks,4,75176,20,240563.2,178477.2,62086.0,Card,2.0,5
+1341,2025-01-11,C2341,Customer_341,Mumbai,Maharashtra,Grocery,Rice,Rice,3,31339,0,94017.0,77444.15,16572.85,Cash,3.0,6
+1342,2025-05-18,C2342,Customer_342,Hyderabad,Telangana,Clothing,Jacket,Jacket,4,13073,5,49677.4,31809.22,17868.18,Net Banking,4.0,6
+1343,2025-01-29,C2343,Customer_343,Mumbai,Maharashtra,Electronics,Laptop,Laptop,2,53568,25,80352.0,59889.41,20462.59,Card,5.0,6
+1344,2025-01-15,C2344,Customer_344,Pune,Maharashtra,Electronics,Headphones,Headphones,5,53072,5,252092.0,210283.78,41808.22,Card,5.0,10
+1345,2025-05-21,C2345,Customer_345,Surat,Gujarat,Furniture,Chair,Chair,1,32901,0,32901.0,24245.89,8655.11,Cash,3.0,4
+1346,2025-04-01,C2346,Customer_346,Pune,Maharashtra,Grocery,Tea,Tea,1,4205,5,3994.75,2843.22,1151.53,Net Banking,5.0,8
+1347,2025-10-20,C2347,Customer_347,Bengaluru,Karnataka,Clothing,Jacket,Jacket,3,12047,10,32526.9,19784.0,12742.9,Card,1.0,3
+1348,2025-08-31,C2348,Customer_348,Pune,Maharashtra,Furniture,Chair,Chair,2,35469,25,53203.5,38458.26,14745.24,Card,1.0,1
+1349,2025-07-12,C2349,Customer_349,Bengaluru,Karnataka,Furniture,Sofa,Sofa,3,79936,10,215827.2,175644.96,40182.24,Cash,3.0,7
+1350,2025-10-27,C2350,Customer_350,Bengaluru,Karnataka,Grocery,Snacks,Snacks,4,39802,25,119406.0,90293.79,29112.21,UPI,5.0,7
+1351,2025-06-22,C2351,Customer_351,Delhi,Delhi,Electronics,Headphones,Headphones,5,37251,10,167629.5,134996.05,32633.45,Cash,4.0,2
+1352,2025-11-04,C2352,Customer_352,Hyderabad,Telangana,Clothing,Jacket,Jacket,3,24888,5,70930.8,53566.09,17364.71,Net Banking,2.0,1
+1353,2025-07-18,C2353,Customer_353,Pune,Maharashtra,Clothing,Jeans,Jeans,1,65391,10,58851.9,39891.46,18960.44,UPI,4.0,7
+1354,2025-06-03,C2354,Customer_354,Pune,Maharashtra,Furniture,Table,Table,2,70275,25,105412.5,88068.89,17343.61,Card,,9
+1355,2025-12-15,C2355,Customer_355,Chennai,Tamil Nadu,Furniture,Table,Table,4,16969,25,50907.0,34494.36,16412.64,Cash,5.0,3
+1356,2025-05-14,C2356,Customer_356,Hyderabad,Telangana,Electronics,Laptop,Laptop,2,40450,15,68765.0,57516.91,11248.09,Cash,3.0,6
+1357,2025-04-10,C2357,Customer_357,Mumbai,Maharashtra,Grocery,Rice,Rice,1,76690,20,61352.0,54191.63,7160.37,UPI,1.0,8
+1358,2025-10-19,C2358,Customer_358,Mumbai,Maharashtra,Grocery,Snacks,Snacks,1,19962,5,18963.9,17023.98,1939.92,Net Banking,3.0,7
+1359,2025-11-21,C2359,Customer_359,Surat,Gujarat,Furniture,Table,Table,2,10792,15,18346.4,12838.61,5507.79,UPI,2.0,6
+1360,2025-03-08,C2360,Customer_360,Hyderabad,Telangana,Electronics,Smart Watch,Smart Watch,2,22299,20,35678.4,29589.71,6088.69,Net Banking,4.0,2
+1361,2025-01-08,C2361,Customer_361,Mumbai,Maharashtra,Grocery,Tea,Tea,4,50442,0,201768.0,123344.33,78423.67,Cash,2.0,6
+1362,2025-03-08,C2362,Customer_362,Pune,Maharashtra,Furniture,Sofa,Sofa,1,32813,5,31172.35,25189.05,5983.3,UPI,3.0,5
+1363,2025-11-02,C2363,Customer_363,Bengaluru,Karnataka,Grocery,Snacks,Snacks,1,6192,10,5572.8,4929.36,643.44,Cash,4.0,9
+1364,2025-04-27,C2364,Customer_364,Hyderabad,Telangana,Grocery,Oil,Oil,4,47287,5,179690.6,116702.76,62987.84,Card,4.0,1
+1365,2025-07-12,C2365,Customer_365,Pune,Maharashtra,Furniture,Chair,Chair,1,77492,20,61993.6,40338.95,21654.65,Cash,3.0,1
+1366,2025-07-14,C2366,Customer_366,Pune,Maharashtra,Electronics,Mobile,Mobile,1,2787,0,2787.0,2248.9,538.1,UPI,4.0,8
+1367,2025-08-04,C2367,Customer_367,Pune,Maharashtra,Clothing,Shoes,Shoes,2,27134,25,40701.0,32793.69,7907.31,UPI,1.0,5
+1368,2025-02-24,C2368,Customer_368,Mumbai,Maharashtra,Clothing,Jeans,Jeans,1,67254,25,50440.5,39611.4,10829.1,Net Banking,3.0,2
+1369,2025-03-24,C2369,Customer_369,Surat,Gujarat,Furniture,Chair,Chair,3,68769,5,195991.65,138639.9,57351.75,UPI,4.0,5
+1370,2025-10-21,C2370,Customer_370,Pune,Maharashtra,Grocery,Oil,Oil,4,43532,5,165421.6,99388.84,66032.76,Net Banking,1.0,2
+1371,2025-08-22,C2371,Customer_371,Surat,Gujarat,Furniture,Sofa,Sofa,5,10036,25,37635.0,30750.54,6884.46,Cash,3.0,4
+1372,2025-08-07,C2372,Customer_372,Chennai,Tamil Nadu,Clothing,Shoes,Shoes,1,23098,0,23098.0,19764.37,3333.63,UPI,3.0,6
+1373,2025-05-18,C2373,Customer_373,Chennai,Tamil Nadu,Electronics,Mobile,Mobile,2,22549,10,40588.2,28706.34,11881.86,UPI,4.0,10
+1374,2025-12-20,C2374,Customer_374,Bengaluru,Karnataka,Clothing,Jacket,Jacket,1,52730,15,44820.5,39831.66,4988.84,Net Banking,3.0,7
+1375,2025-10-19,C2375,Customer_375,Chennai,Tamil Nadu,Grocery,Oil,Oil,2,7886,5,14983.4,9456.23,5527.17,Net Banking,5.0,8
+1376,2025-09-07,C2376,Customer_376,Surat,Gujarat,Furniture,Bed,Bed,3,3977,25,8948.25,7731.15,1217.1,UPI,2.0,8
+1377,2025-10-17,C2377,Customer_377,Chennai,Tamil Nadu,Grocery,Tea,Tea,1,34490,25,25867.5,17959.07,7908.43,Card,5.0,10
+1378,2025-10-13,C2378,Customer_378,Mumbai,Maharashtra,Clothing,Shirt,Shirt,2,63367,10,114060.6,91147.33,22913.27,UPI,4.0,3
+1379,2025-05-04,C2379,Customer_379,Delhi,Delhi,Electronics,Laptop,Laptop,4,65190,5,247722.0,154196.93,93525.07,Cash,4.0,6
+1380,2025-08-24,C2380,Customer_380,Delhi,Delhi,Clothing,Shirt,Shirt,2,72354,25,108531.0,77446.77,31084.23,Net Banking,2.0,2
+1381,2025-02-22,C2381,Customer_381,Surat,Gujarat,Grocery,Rice,Rice,4,58798,10,211672.8,134541.78,77131.02,Net Banking,4.0,1
+1382,2025-09-18,C2382,Customer_382,Delhi,Delhi,Grocery,Rice,Rice,5,222,0,1110.0,929.66,180.34,Card,5.0,5
+1383,2025-08-31,C2383,Customer_383,Hyderabad,Telangana,Grocery,Snacks,Snacks,1,29418,15,25005.3,17493.5,7511.8,Cash,5.0,10
+1384,2025-09-25,C2384,Customer_384,Chennai,Tamil Nadu,Grocery,Rice,Rice,2,487,10,876.6,619.35,257.25,Cash,3.0,9
+1385,2025-05-11,C2385,Customer_385,Bengaluru,Karnataka,Electronics,Mobile,Mobile,4,18608,25,55824.0,45929.38,9894.62,Card,4.0,2
+1386,2025-02-25,C2386,Customer_386,Surat,Gujarat,Furniture,Sofa,Sofa,4,28457,15,96753.8,81985.9,14767.9,Net Banking,2.0,6
+1387,2025-09-13,C2387,Customer_387,Surat,Gujarat,Electronics,Mobile,Mobile,4,60150,25,180450.0,140172.63,40277.37,UPI,5.0,3
+1388,2025-03-30,C2388,Customer_388,Surat,Gujarat,Electronics,Smart Watch,Smart Watch,5,63498,20,253992.0,211911.74,42080.26,Card,2.0,10
+1389,2025-11-08,C2389,Customer_389,Pune,Maharashtra,Electronics,Smart Watch,Smart Watch,5,79650,10,358425.0,269260.7,89164.3,Card,4.0,7
+1390,2025-06-03,C2390,Customer_390,Hyderabad,Telangana,Clothing,Shoes,Shoes,3,59555,5,169731.75,108875.11,60856.64,Cash,5.0,9
+1391,2025-09-15,C2391,Customer_391,Bengaluru,Karnataka,Furniture,Chair,Chair,5,38286,25,143572.5,101015.9,42556.6,Cash,2.0,3
+1392,2025-05-27,C2392,Customer_392,Delhi,Delhi,Electronics,Headphones,Headphones,4,76589,20,245084.8,216361.37,28723.43,Net Banking,4.0,9
+1393,2025-03-24,C2393,Customer_393,Chennai,Tamil Nadu,Electronics,Mobile,Mobile,4,19248,0,76992.0,61676.46,15315.54,Cash,2.0,5
+1394,2025-08-20,C2394,Customer_394,Surat,Gujarat,Clothing,Jeans,Jeans,1,38884,5,36939.8,30515.16,6424.64,UPI,1.0,6
+1395,2025-08-02,C2395,Customer_395,Bengaluru,Karnataka,Furniture,Bed,Bed,5,37901,25,142128.75,113610.34,28518.41,Cash,4.0,7
+1396,2025-11-21,C2396,Customer_396,Pune,Maharashtra,Electronics,Mobile,Mobile,3,26819,20,64365.6,55396.57,8969.03,Cash,,4
+1397,2025-03-03,C2397,Customer_397,Hyderabad,Telangana,Furniture,Chair,Chair,4,23455,25,70365.0,43791.0,26574.0,Net Banking,2.0,9
+1398,2025-06-19,C2398,Customer_398,Hyderabad,Telangana,Electronics,Smart Watch,Smart Watch,5,34834,5,165461.5,107265.16,58196.34,Net Banking,3.0,1
+1399,2025-09-09,C2399,Customer_399,Bengaluru,Karnataka,Furniture,Sofa,Sofa,3,78434,0,235302.0,195794.39,39507.61,Cash,5.0,5
+1400,2025-08-01,C2400,Customer_400,Delhi,Delhi,Electronics,Headphones,Headphones,2,24300,20,38880.0,24123.21,14756.79,Net Banking,5.0,3
+1401,2025-09-29,C2401,Customer_401,Bengaluru,Karnataka,Electronics,Headphones,Headphones,2,43700,10,78660.0,55710.11,22949.89,Net Banking,2.0,10
+1402,2025-05-05,C2402,Customer_402,Pune,Maharashtra,Electronics,Mobile,Mobile,3,58614,5,167049.9,145558.75,21491.15,UPI,5.0,10
+1403,2025-09-22,C2403,Customer_403,Surat,Gujarat,Clothing,Shoes,Shoes,1,50777,10,45699.3,34826.12,10873.18,Cash,3.0,1
+1404,2025-10-03,C2404,Customer_404,Chennai,Tamil Nadu,Grocery,Tea,Tea,3,25432,10,68666.4,51786.03,16880.37,UPI,1.0,3
+1405,2025-12-18,C2405,Customer_405,Pune,Maharashtra,Electronics,Laptop,Laptop,2,55801,0,111602.0,73844.13,37757.87,Card,4.0,2
+1406,2025-10-13,C2406,Customer_406,Pune,Maharashtra,Electronics,Smart Watch,Smart Watch,3,5165,0,15495.0,9637.49,5857.51,UPI,2.0,5
+1407,2025-07-19,C2407,Customer_407,Mumbai,Maharashtra,Furniture,Table,Table,4,59329,25,177987.0,128388.15,49598.85,UPI,3.0,1
+1408,2025-02-24,C2408,Customer_408,Surat,Gujarat,Electronics,Mobile,Mobile,5,6165,25,23118.75,19754.4,3364.35,Cash,3.0,9
+1409,2025-03-22,C2409,Customer_409,Hyderabad,Telangana,Clothing,Shirt,Shirt,4,50192,15,170652.8,144480.93,26171.87,Card,1.0,8
+1410,2025-10-11,C2410,Customer_410,Surat,Gujarat,Furniture,Bed,Bed,5,38863,25,145736.25,93740.86,51995.39,Card,3.0,1
+1411,2025-04-18,C2411,Customer_411,Chennai,Tamil Nadu,Electronics,Mobile,Mobile,5,78404,15,333217.0,253626.66,79590.34,Cash,1.0,5
+1412,2025-04-10,C2412,Customer_412,Pune,Maharashtra,Furniture,Bed,Bed,5,18871,5,89637.25,58730.13,30907.12,UPI,5.0,5
+1413,2025-05-09,C2413,Customer_413,Surat,Gujarat,Furniture,Sofa,Sofa,5,60658,25,227467.5,173989.75,53477.75,UPI,3.0,2
+1414,2025-11-14,C2414,Customer_414,Hyderabad,Telangana,Furniture,Bed,Bed,3,17005,25,38261.25,30480.51,7780.74,UPI,1.0,5
+1415,2025-10-17,C2415,Customer_415,Mumbai,Maharashtra,Furniture,Table,Table,4,43236,20,138355.2,110383.47,27971.73,Cash,5.0,3
+1416,2025-07-04,C2416,Customer_416,Bengaluru,Karnataka,Clothing,Shoes,Shoes,1,41253,5,39190.35,32751.3,6439.05,Card,4.0,5
+1417,2025-11-27,C2417,Customer_417,Mumbai,Maharashtra,Clothing,Shoes,Shoes,4,47220,10,169992.0,126829.57,43162.43,UPI,1.0,3
+1418,2025-01-10,C2418,Customer_418,Delhi,Delhi,Clothing,Jeans,Jeans,2,34702,25,52053.0,45072.73,6980.27,UPI,1.0,2
+1419,2025-12-01,C2419,Customer_419,Chennai,Tamil Nadu,Grocery,Oil,Oil,5,34359,20,137436.0,119321.36,18114.64,Card,5.0,8
+1420,2025-07-23,C2420,Customer_420,Bengaluru,Karnataka,Clothing,Shoes,Shoes,5,38341,5,182119.75,134661.23,47458.52,Cash,5.0,2
+1421,2025-10-17,C2421,Customer_421,Surat,Gujarat,Electronics,Laptop,Laptop,5,21937,20,87748.0,56343.97,31404.03,Card,,3
+1422,2025-01-22,C2422,Customer_422,Chennai,Tamil Nadu,Grocery,Snacks,Snacks,2,64116,5,121820.4,75389.57,46430.83,Card,,4
+1423,2025-12-27,C2423,Customer_423,Mumbai,Maharashtra,Clothing,Shoes,Shoes,4,6286,0,25144.0,22483.18,2660.82,Cash,3.0,2
+1424,2025-05-09,C2424,Customer_424,Mumbai,Maharashtra,Clothing,Jeans,Jeans,4,48080,20,153856.0,122469.52,31386.48,Net Banking,1.0,9
+1425,2025-03-13,C2425,Customer_425,Hyderabad,Telangana,Furniture,Bed,Bed,3,64013,15,163233.15,141384.65,21848.5,Net Banking,1.0,9
+1426,2025-11-05,C2426,Customer_426,Chennai,Tamil Nadu,Furniture,Chair,Chair,5,37006,5,175778.5,113389.81,62388.69,UPI,2.0,6
+1427,2025-10-30,C2427,Customer_427,Surat,Gujarat,Furniture,Bed,Bed,3,15055,15,38390.25,30810.82,7579.43,Card,4.0,4
+1428,2025-01-21,C2428,Customer_428,Bengaluru,Karnataka,Grocery,Rice,Rice,1,16962,20,13569.6,10553.14,3016.46,Card,2.0,9
+1429,2025-12-05,C2429,Customer_429,Hyderabad,Telangana,Electronics,Laptop,Laptop,2,67917,15,115458.9,90035.69,25423.21,Cash,5.0,1
+1430,2025-03-15,C2430,Customer_430,Mumbai,Maharashtra,Electronics,Laptop,Laptop,5,61989,15,263453.25,171552.86,91900.39,Card,4.0,10
+1431,2025-07-17,C2431,Customer_431,Pune,Maharashtra,Clothing,Jeans,Jeans,3,59637,20,143128.8,111236.67,31892.13,Card,2.0,7
+1432,2025-02-19,C2432,Customer_432,Bengaluru,Karnataka,Electronics,Mobile,Mobile,5,66307,25,248651.25,180505.52,68145.73,Card,2.0,10
+1433,2025-10-04,C2433,Customer_433,Surat,Gujarat,Grocery,Rice,Rice,5,66172,0,330860.0,207765.85,123094.15,UPI,2.0,10
+1434,2025-06-29,C2434,Customer_434,Hyderabad,Telangana,Grocery,Tea,Tea,1,69644,15,59197.4,39593.94,19603.46,UPI,4.0,7
+1435,2025-05-12,C2435,Customer_435,Hyderabad,Telangana,Grocery,Oil,Oil,4,30675,0,122700.0,84047.05,38652.95,Card,5.0,7
+1436,2025-07-29,C2436,Customer_436,Delhi,Delhi,Electronics,Mobile,Mobile,5,15644,20,62576.0,37680.65,24895.35,Cash,2.0,6
+1437,2025-07-07,C2437,Customer_437,Mumbai,Maharashtra,Electronics,Laptop,Laptop,5,33444,10,150498.0,128900.5,21597.5,Cash,4.0,10
+1438,2025-09-05,C2438,Customer_438,Mumbai,Maharashtra,Grocery,Oil,Oil,5,73280,15,311440.0,203562.13,107877.87,Cash,5.0,9
+1439,2025-12-25,C2439,Customer_439,Surat,Gujarat,Clothing,Jacket,Jacket,4,18296,25,54888.0,34893.71,19994.29,Card,2.0,8
+1440,2025-07-19,C2440,Customer_440,Delhi,Delhi,Electronics,Laptop,Laptop,4,44559,20,142588.8,111819.22,30769.58,UPI,1.0,3
+1441,2025-02-10,C2441,Customer_441,Mumbai,Maharashtra,Electronics,Laptop,Laptop,5,57265,0,286325.0,177299.35,109025.65,UPI,2.0,6
+1442,2025-11-24,C2442,Customer_442,Delhi,Delhi,Grocery,Tea,Tea,5,37748,25,141555.0,125850.74,15704.26,Net Banking,1.0,3
+1443,2025-09-22,C2443,Customer_443,Bengaluru,Karnataka,Grocery,Rice,Rice,5,37687,5,179013.25,109212.91,69800.34,Card,5.0,9
+1444,2025-06-30,C2444,Customer_444,Hyderabad,Telangana,Furniture,Sofa,Sofa,2,237,5,450.3,281.91,168.39,Net Banking,3.0,7
+1445,2025-06-28,C2445,Customer_445,Delhi,Delhi,Grocery,Oil,Oil,1,9193,0,9193.0,7031.52,2161.48,Cash,5.0,10
+1446,2025-07-28,C2446,Customer_446,Delhi,Delhi,Clothing,Jeans,Jeans,2,59806,15,101670.2,78537.38,23132.82,UPI,3.0,3
+1447,2025-12-22,C2447,Customer_447,Hyderabad,Telangana,Electronics,Headphones,Headphones,1,67477,10,60729.3,52399.3,8330.0,Net Banking,5.0,5
+1448,2025-09-04,C2448,Customer_448,Surat,Gujarat,Grocery,Tea,Tea,2,44720,15,76024.0,61159.67,14864.33,UPI,5.0,1
+1449,2025-10-02,C2449,Customer_449,Mumbai,Maharashtra,Clothing,Shirt,Shirt,2,30337,10,54606.6,39520.31,15086.29,UPI,3.0,9
+1450,2025-10-11,C2450,Customer_450,Hyderabad,Telangana,Clothing,Jeans,Jeans,1,52488,25,39366.0,32462.64,6903.36,Card,3.0,2
+1451,2025-04-13,C2451,Customer_451,Hyderabad,Telangana,Grocery,Snacks,Snacks,2,75397,10,135714.6,88870.72,46843.88,Card,2.0,8
+1452,2025-02-24,C2452,Customer_452,Bengaluru,Karnataka,Furniture,Table,Table,2,26777,5,50876.3,43290.66,7585.64,UPI,3.0,3
+1453,2025-06-11,C2453,Customer_453,Delhi,Delhi,Electronics,Smart Watch,Smart Watch,1,71172,0,71172.0,60809.58,10362.42,Net Banking,3.0,10
+1454,2025-01-28,C2454,Customer_454,Bengaluru,Karnataka,Clothing,Shoes,Shoes,5,36935,15,156973.75,104643.07,52330.68,Net Banking,5.0,3
+1455,2025-12-24,C2455,Customer_455,Delhi,Delhi,Grocery,Rice,Rice,3,51805,25,116561.25,97068.85,19492.4,Net Banking,4.0,2
+1456,2025-05-13,C2456,Customer_456,Chennai,Tamil Nadu,Clothing,Shirt,Shirt,2,49932,20,79891.2,50349.38,29541.82,Card,3.0,10
+1457,2025-08-03,C2457,Customer_457,Hyderabad,Telangana,Clothing,Jeans,Jeans,4,45170,10,162612.0,106539.17,56072.83,Cash,4.0,4
+1458,2025-02-21,C2458,Customer_458,Hyderabad,Telangana,Clothing,Shoes,Shoes,4,23778,20,76089.6,48647.26,27442.34,Cash,5.0,4
+1459,2025-01-05,C2459,Customer_459,Surat,Gujarat,Furniture,Bed,Bed,4,25898,5,98412.4,82667.52,15744.88,Card,2.0,8
+1460,2025-05-09,C2460,Customer_460,Bengaluru,Karnataka,Grocery,Tea,Tea,5,70190,25,263212.5,182858.51,80353.99,UPI,4.0,5
+1461,2025-08-19,C2461,Customer_461,Pune,Maharashtra,Grocery,Rice,Rice,2,8069,5,15331.1,12941.68,2389.42,Cash,4.0,2
+1462,2025-06-29,C2462,Customer_462,Hyderabad,Telangana,Clothing,Jacket,Jacket,5,73271,10,329719.5,231872.63,97846.87,Card,4.0,2
+1463,2025-07-15,C2463,Customer_463,Hyderabad,Telangana,Furniture,Table,Table,3,67104,15,171115.2,142440.28,28674.92,Cash,4.0,2
+1464,2025-02-06,C2464,Customer_464,Surat,Gujarat,Grocery,Oil,Oil,2,44422,15,75517.4,59612.08,15905.32,UPI,5.0,7
+1465,2025-11-27,C2465,Customer_465,Bengaluru,Karnataka,Furniture,Table,Table,3,41733,25,93899.25,64546.99,29352.26,Net Banking,3.0,10
+1466,2025-04-05,C2466,Customer_466,Surat,Gujarat,Clothing,Shoes,Shoes,3,77128,20,185107.2,164682.07,20425.13,UPI,4.0,3
+1467,2025-02-02,C2467,Customer_467,Pune,Maharashtra,Furniture,Chair,Chair,3,10694,5,30477.9,19812.86,10665.04,Net Banking,1.0,2
+1468,2025-02-13,C2468,Customer_468,Surat,Gujarat,Electronics,Mobile,Mobile,4,68879,0,275516.0,173899.78,101616.22,Net Banking,5.0,3
+1469,2025-01-15,C2469,Customer_469,Bengaluru,Karnataka,Clothing,Jeans,Jeans,3,58285,25,131141.25,83658.09,47483.16,UPI,5.0,3
+1470,2025-03-11,C2470,Customer_470,Surat,Gujarat,Clothing,Jacket,Jacket,4,61435,20,196592.0,173090.86,23501.14,Card,5.0,8
+1471,2025-08-15,C2471,Customer_471,Delhi,Delhi,Grocery,Tea,Tea,5,40787,10,183541.5,136645.82,46895.68,,2.0,2
+1472,2025-05-27,C2472,Customer_472,Hyderabad,Telangana,Clothing,Shoes,Shoes,2,39989,0,79978.0,47989.02,31988.98,Net Banking,2.0,6
+1473,2025-04-29,C2473,Customer_473,Surat,Gujarat,Electronics,Smart Watch,Smart Watch,4,39470,0,157880.0,131002.63,26877.37,UPI,3.0,10
+1474,2025-04-23,C2474,Customer_474,Mumbai,Maharashtra,Clothing,Jeans,Jeans,5,57492,15,244341.0,164922.56,79418.44,Cash,4.0,7
+1475,2025-11-29,C2475,Customer_475,Pune,Maharashtra,Electronics,Smart Watch,Smart Watch,2,67913,20,108660.8,91522.0,,Cash,3.0,5
+1476,2025-08-20,C2476,Customer_476,Surat,Gujarat,Grocery,Oil,Oil,1,24108,5,22902.6,15731.31,7171.29,Cash,4.0,10
+1477,2025-02-22,C2477,Customer_477,Hyderabad,Telangana,Grocery,Oil,Oil,1,20142,0,20142.0,17944.81,2197.19,Cash,1.0,3
+1478,2025-04-22,C2478,Customer_478,Pune,Maharashtra,Clothing,Jeans,Jeans,4,1275,5,4845.0,3038.1,1806.9,Cash,1.0,8
+1479,2025-02-11,C2479,Customer_479,Surat,Gujarat,Grocery,Snacks,Snacks,4,48879,15,166188.6,134459.95,31728.65,Card,1.0,6
+1480,2025-07-15,C2480,Customer_480,Surat,Gujarat,Electronics,Headphones,Headphones,4,9556,20,30579.2,22660.53,7918.67,UPI,2.0,5
+1481,2025-02-18,C2481,Customer_481,Mumbai,Maharashtra,Electronics,Laptop,Laptop,4,32596,25,97788.0,87848.89,9939.11,Card,2.0,8
+1482,2025-09-24,C2482,Customer_482,Pune,Maharashtra,Grocery,Tea,Tea,3,42544,5,121250.4,95636.17,25614.23,UPI,1.0,9
+1483,2025-05-01,C2483,Customer_483,Pune,Maharashtra,Clothing,Shoes,Shoes,3,26247,10,70866.9,61388.87,9478.03,Net Banking,,2
+1484,2025-01-22,C2484,Customer_484,Bengaluru,Karnataka,Clothing,Shirt,Shirt,3,76837,0,230511.0,165678.05,64832.95,Net Banking,2.0,1
+1485,2025-11-17,C2485,Customer_485,Surat,Gujarat,Furniture,Table,Table,1,32800,5,31160.0,23369.24,7790.76,UPI,5.0,6
+1486,2025-10-13,C2486,Customer_486,Pune,Maharashtra,Electronics,Headphones,Headphones,2,70500,0,141000.0,89922.5,51077.5,Cash,2.0,6
+1487,2025-12-28,C2487,Customer_487,Chennai,Tamil Nadu,Grocery,Oil,Oil,4,47145,25,141435.0,90577.75,50857.25,Net Banking,1.0,8
+1488,2025-11-03,C2488,Customer_488,Bengaluru,Karnataka,Clothing,Shoes,Shoes,5,24661,20,98644.0,69474.91,29169.09,Card,4.0,5
+1489,2025-07-14,C2489,Customer_489,Mumbai,Maharashtra,Electronics,Laptop,Laptop,3,34717,20,83320.8,59168.92,24151.88,Card,1.0,9
+1490,2025-04-08,C2490,Customer_490,Surat,Gujarat,Electronics,Headphones,Headphones,5,31498,10,141741.0,115703.33,26037.67,Net Banking,5.0,7
+1491,2025-03-08,C2491,Customer_491,Hyderabad,Telangana,Furniture,Table,Table,4,42408,0,169632.0,106677.64,62954.36,Card,1.0,1
+1492,2025-09-27,C2492,Customer_492,Chennai,Tamil Nadu,Electronics,Laptop,Laptop,4,25315,0,101260.0,61722.54,39537.46,Cash,4.0,8
+1493,2025-02-10,C2493,Customer_493,Bengaluru,Karnataka,Electronics,Headphones,Headphones,5,9489,0,47445.0,41707.16,5737.84,Net Banking,2.0,8
+1494,2025-09-28,C2494,Customer_494,Delhi,Delhi,Electronics,Headphones,Headphones,4,48574,25,145722.0,89981.88,55740.12,UPI,5.0,5
+1495,2025-07-17,C2495,Customer_495,Chennai,Tamil Nadu,Electronics,Headphones,Headphones,2,68289,0,136578.0,86094.34,50483.66,Card,2.0,9
+1496,2025-07-03,C2496,Customer_496,Delhi,Delhi,Furniture,Chair,Chair,2,73393,25,110089.5,84487.36,25602.14,Net Banking,1.0,10
+1497,2025-11-04,C2497,Customer_497,Bengaluru,Karnataka,Grocery,Rice,Rice,2,72285,15,122884.5,92336.38,30548.12,Net Banking,2.0,9
+1498,2025-11-08,C2498,Customer_498,Delhi,Delhi,Clothing,Jacket,Jacket,3,48922,15,124751.1,103450.51,21300.59,Card,4.0,6
+1499,2025-01-01,C2499,Customer_499,Surat,Gujarat,Furniture,Bed,Bed,5,33503,10,150763.5,133952.7,16810.8,UPI,4.0,7
+1500,2025-06-11,C2500,Customer_500,Delhi,Delhi,Clothing,Shirt,Shirt,2,39762,0,79524.0,54879.53,24644.47,UPI,2.0,4
+1001,2025-02-14,C2001,Customer_1,Pune,Maharashtra,Electronics,Mobile,Mobile,3,32298,5,92049.3,59082.89,32966.41,Net Banking,1.0,9
+1002,2025-11-29,C2002,Customer_2,Chennai,Tamil Nadu,Electronics,Mobile,Mobile,2,30695,20,49112.0,38337.1,10774.9,Net Banking,5.0,4
+1003,2025-03-21,C2003,Customer_3,Delhi,Delhi,Furniture,Bed,Bed,3,1051,5,2995.35,2424.56,570.79,Card,3.0,5
+1004,2025-01-23,C2004,Customer_4,Chennai,Tamil Nadu,Clothing,Shirt,Shirt,4,12876,10,46353.6,39597.48,6756.12,Net Banking,5.0,5
+1005,2025-04-09,C2005,Customer_5,Chennai,Tamil Nadu,Electronics,Smart Watch,Smart Watch,5,38627,25,144851.25,113788.76,31062.49,UPI,3.0,10

@@ -1,0 +1,46 @@
+Task 1: Intelligent Data Cleaning Pipeline
+Build a reusable function called:
+clean_zomato(df)
+
+The function should:
+Remove duplicates
+Handle missing values differently based on datatype
+Convert Yes/No columns to binary
+Rename all columns to title_case
+Remove unnecessary spaces
+Correct inconsistent text (e.g., uppercase/lowercase)
+Remove impossible values (negative costs, invalid ratings)
+The function should work on any future Zomato dataset.
+
+Task 2: Restaurant Popularity Index
+Create a new feature called
+
+Popularity Score using
+
+Aggregate Rating
+Votes
+Table Booking
+Online Delivery
+
+Task 3:
+Exploratory Data Analysis Dashboard
+Which city has the highest average rating?
+Which city has the highest average restaurant cost?
+Which cuisine receives the highest ratings?
+Does online delivery improve ratings?
+
+use necessary visualization
+
+Task 4:
+Identify outliers using two IQR method:
+IQR
+Then create two datasets:
+
+Original
+IQR cleaned
+
+Task 5: Model selection and evaluation
+Predict Restaurant Rating (Regression)
+
+
+

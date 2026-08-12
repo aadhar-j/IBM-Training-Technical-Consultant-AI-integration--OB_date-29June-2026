@@ -1,0 +1,158 @@
+[
+  {
+    "question": "What is the standard working schedule at NovaTech Solutions?",
+    "answer": "The standard working schedule at NovaTech Solutions is Monday through Friday, from 9:00 AM to 6:00 PM."
+  },
+  {
+    "question": "What is the purpose of this fictional employee handbook?",
+    "answer": "This fictional employee handbook is designed for testing a PDF-based Retrieval-Augmented Generation (RAG) application. It contains policies distributed across multiple pages so that users can test semantic retrieval, chunking, page tracking, and source display."
+  },
+  {
+    "question": "What is the name of the company in the handbook?",
+    "answer": "The company in the handbook is NovaTech Solutions Pvt. Ltd."
+  },
+  {
+    "question": "What is the standard working schedule at NovaTech Solutions?",
+    "answer": "The standard working schedule at NovaTech Solutions is Monday through Friday, from 9:00 AM to 6:00 PM."
+  },
+  {
+    "question": "How many days of paid annual leave are full-time employees entitled to at NovaTech Solutions?",
+    "answer": "Full-time employees are entitled to 20 days of paid annual leave per calendar year."
+  },
+  {
+    "question": "What should employees do if they arrive more than 30 minutes late at NovaTech Solutions?",
+    "answer": "Employees arriving more than 30 minutes late should inform their reporting manager as early as possible."
+  },
+  {
+    "question": "How many days of paid sick leave are employees eligible for per calendar year?",
+    "answer": "Employees are eligible for 12 days of paid sick leave per calendar year."
+  },
+  {
+    "question": "What is the maximum number of unused annual leave days that can be carried forward into the next calendar year?",
+    "answer": "Employees may carry forward up to 10 unused annual leave days into the next calendar year."
+  },
+  {
+    "question": "By when must any carried-forward annual leave balance be used?",
+    "answer": "Any carried-forward balance must be used by March 31 of the following year."
+  },
+  {
+    "question": "What is the company's work from home policy?",
+    "answer": "Eligible employees may work from home up to two days per week, subject to team requirements and manager approval. Employees working remotely must remain available during core collaboration hours from 10:00 AM to 4:00 PM and must attend scheduled meetings unless excused. Remote work is not an automatic entitlement. Managers may require employees to work from the office when business needs, client meetings, training, or team events require physical presence. Employees must use company-approved devices and secure network connections when accessing confidential company information from home."
+  },
+  {
+    "question": "What is the company's policy on maternity and paternity leave?",
+    "answer": "Eligible employees are entitled to 26 weeks of maternity leave in accordance with applicable company policy and local statutory requirements."
+  },
+  {
+    "question": "What should employees do if they cannot come to work?",
+    "answer": "Employees should inform their manager before the start of the workday whenever possible. In emergencies, notification should be provided as soon as practical."
+  },
+  {
+    "question": "How many weeks of maternity leave are employees entitled to?",
+    "answer": "Employees are entitled to 26 weeks of maternity leave."
+  },
+  {
+    "question": "How many working days of paid paternity leave are eligible employees entitled to?",
+    "answer": "Eligible employees are entitled to 15 working days of paid paternity leave."
+  },
+  {
+    "question": "How often are formal performance reviews conducted?",
+    "answer": "Formal performance reviews are conducted twice each year, normally in June and December."
+  },
+  {
+    "question": "What factors are considered for employee promotions?",
+    "answer": "Employees may be considered for promotion based on sustained performance, role readiness, demonstrated skills, business requirements, and availability of an appropriate position."
+  },
+  {
+    "question": "Is promotion guaranteed by length of service?",
+    "answer": "A promotion is not guaranteed solely by length of service. Employees are expected to demonstrate capability at the next level before promotion is approved."
+  },
+  {
+    "question": "What can development activities include?",
+    "answer": "Development activities may include training, mentoring, project assignments, certifications, or expanded responsibilities."
+  },
+  {
+    "question": "When is the salary usually credited?",
+    "answer": "Salary is normally credited on the last working day of each month."
+  },
+  {
+    "question": "What should employees do if they find discrepancies in their monthly payslip?",
+    "answer": "Employees should review their monthly payslip and report discrepancies to Human Resources or Payroll within 30 calendar days."
+  },
+  {
+    "question": "What is the procedure for business travel?",
+    "answer": "Business travel must be approved by the employee's manager before booking. International travel also requires approval from the relevant business unit head."
+  },
+  {
+    "question": "What types of business travel expenses may the company reimburse?",
+    "answer": "The company may reimburse eligible expenses such as transportation, accommodation, meals, and approved incidental costs."
+  },
+  {
+    "question": "What types of conduct are prohibited in the workplace?",
+    "answer": "Harassment, discrimination, bullying, retaliation, threats, and other inappropriate conduct are prohibited."
+  },
+  {
+    "question": "How should employees report serious workplace concerns?",
+    "answer": "Employees should report serious workplace concerns through their manager, Human Resources, or the designated ethics reporting channel."
+  },
+  {
+    "question": "What should employees do if they suspect a security incident?",
+    "answer": "Employees must immediately report suspected security incidents, lost company devices, or accidental disclosure of confidential information to the Information Security team."
+  },
+  {
+    "question": "What is the policy on sharing passwords?",
+    "answer": "Passwords must not be shared. Employees must follow company requirements for multi-factor authentication and device security."
+  },
+  {
+    "question": "What is the procedure for employees who resign?",
+    "answer": "Employees who resign must submit a formal resignation through the company's designated process."
+  },
+  {
+    "question": "What is the standard notice period for full-time employees?",
+    "answer": "The standard notice period is 60 calendar days for full-time employees."
+  },
+  {
+    "question": "What are employees expected to do during the notice period?",
+    "answer": "During the notice period, employees are expected to complete knowledge transfer, return company property, and support a reasonable transition of responsibilities."
+  },
+  {
+    "question": "What should employees do before their last working day?",
+    "answer": "Employees should return badges, laptops, access cards, and other company property before their last working day."
+  },
+  {
+    "question": "Who should employees contact for questions about leave, payroll, benefits, performance reviews, career development, workplace concerns, or exit procedures?",
+    "answer": "Employees may contact Human Resources for questions about leave, payroll, benefits, performance reviews, career development, workplace concerns, or exit procedures."
+  },
+  {
+    "question": "Who is the first point of contact for routine work scheduling, leave planning, and team-specific questions?",
+    "answer": "Managers are the first point of contact for routine work scheduling, leave planning, and team-specific questions."
+  },
+  {
+    "question": "Who should employees contact for urgent information-security concerns?",
+    "answer": "For urgent information-security concerns, employees should immediately contact the Information Security team through the company's approved incident-reporting channel."
+  },
+  {
+    "question": "How many paid sick leave days are allowed per calendar year?",
+    "answer": "12 paid days per calendar year are allowed for sick leave."
+  },
+  {
+    "question": "What is the policy for work from home?",
+    "answer": "Up to 2 days per week with manager approval is the policy for work from home."
+  },
+  {
+    "question": "What is the resignation notice period?",
+    "answer": "The resignation notice period is 60 calendar days unless otherwise specified."
+  },
+  {
+    "question": "Is the content an actual company policy?",
+    "answer": "No, it is not an actual company policy."
+  },
+  {
+    "question": "Should the content be treated as legal or HR advice?",
+    "answer": "No, it should not be treated as legal or HR advice."
+  },
+  {
+    "question": "What is the nature of the content in the handbook?",
+    "answer": "The content in the handbook is information, not an actual company policy or legal or HR advice."
+  }
+]

@@ -1,0 +1,48 @@
+Review_ID,Customer_Name,Email,Feedback,Positive_Score,Negative_Score,Neutral_Score,Compound_Score,Sentiment
+1062,Edward Perez,edward@gmail.com,ca n't recommend product . disappoint .,0.306,0.286,0.407,0.0382,Neutral
+1082,Karen Lee,karen@gmail.com,product look cheap feel poorly make .,0.0,0.0,1.0,0.0,Neutral
+1090,Betty Hill,betty@yahoo.com,delivery late customer support useless .,0.318,0.329,0.353,-0.0258,Neutral
+1095,Matthew Carter,matthew@yahoo.com,satisfy . poor experience .,0.423,0.437,0.141,-0.0258,Neutral
+1098,Michelle Turner,michelle@yahoo.com,never buy product ! ! !,0.0,0.0,1.0,0.0,Neutral
+1102,Mark Young,mark.young@yahoo.com,delivery time . product average .,0.0,0.0,1.0,0.0,Neutral
+1103,Kenneth Baker,kenneth@gmail.com,work expect . nothing extraordinary .,0.0,0.0,1.0,0.0,Neutral
+1105,Jason Collins,jason@gmail.com,product arrive today . box seal .,0.0,0.0,1.0,0.0,Neutral
+1108,Sandra Scott,sandra@gmail.com,product arrive yesterday . n't use yet .,0.0,0.0,1.0,0.0,Neutral
+1109,Matthew Clark,matthew@gmail.com,'s decent product price ... nothing .,0.0,0.0,1.0,0.0,Neutral
+1111,Thomas Harris,thomas@gmail.com,item look exactly describe .,0.0,0.0,1.0,0.0,Neutral
+1112,Sophia Martin,sophia@gmail.com,product arrive time properly pack .,0.0,0.0,1.0,0.0,Neutral
+1113,Charles Garcia,charles@gmail.com,suppose .,0.0,0.0,1.0,0.0,Neutral
+1117,Richard Lee,richard@gmail.com,product fairly standard work normally .,0.0,0.0,1.0,0.0,Neutral
+1118,Laura Walker,laura@gmail.com,"delivery take days , expect .",0.0,0.0,1.0,0.0,Neutral
+1120,Susan Young,susan@gmail.com,"overall , average experience .",0.0,0.0,1.0,0.0,Neutral
+1121,Michael King,michael@gmail.com,product reasonably price perform normally .,0.0,0.0,1.0,0.0,Neutral
+1122,Jennifer Wright,jennifer@yahoo.com,receive item yesterday . still evaluate .,0.0,0.0,1.0,0.0,Neutral
+1124,Emily Hill,emily@gmail.com,delivery neither fast slow .,0.0,0.0,1.0,0.0,Neutral
+1125,James Scott,james@gmail.com,product suitable basic usage .,0.0,0.0,1.0,0.0,Neutral
+1126,Patricia Green,patricia@yahoo.com,average product give price .,0.0,0.0,1.0,0.0,Neutral
+1129,Christopher Carter,christopher@gmail.com,"item work , although limit feature .",0.0,0.0,1.0,0.0,Neutral
+1131,Steven Roberts,steven@gmail.com,delivery time reasonable .,0.0,0.0,1.0,0.0,Neutral
+1132,Karen Turner,karen@gmail.com,product work normally days use .,0.0,0.0,1.0,0.0,Neutral
+1138,Helen Stewart,helen@gmail.com,product meet basic requirements .,0.0,0.0,1.0,0.0,Neutral
+1140,Melissa Morris,melissa@gmail.com,item deliver expect .,0.0,0.0,1.0,0.0,Neutral
+1141,Jeffrey Rogers,jeffrey@gmail.com,"product functional , exceptional .",0.0,0.0,1.0,0.0,Neutral
+1142,Stephanie Reed,stephanie@yahoo.com,overall experience fairly normal .,0.0,0.0,1.0,0.0,Neutral
+1143,Ryan Cook,ryan@gmail.com,product usable perform basic function .,0.0,0.0,1.0,0.0,Neutral
+1144,Amanda Morgan,amanda@gmail.com,nothing much say . average product .,0.0,0.0,1.0,0.0,Neutral
+1146,Michelle Murphy,michelle@gmail.com,"still test product , say much yet .",0.0,0.0,1.0,0.0,Neutral
+1150,Sarah Richardson,sarah@gmail.com,standard product standard performance .,0.0,0.0,1.0,0.0,Neutral
+1151,John Cox,john.cox@gmail.com,item receive today . test later .,0.0,0.0,1.0,0.0,Neutral
+1153,William Ward,william@gmail.com,product perform expect price .,0.0,0.0,1.0,0.0,Neutral
+1155,Mark Peterson,mark@gmail.com,receive order . everything seem normal .,0.0,0.0,1.0,0.0,Neutral
+1156,Jennifer Gray,jennifer.gray@yahoo.com,product average suitable basic need .,0.0,0.0,1.0,0.0,Neutral
+1157,Robert Ramirez,robert@gmail.com,item deliver without major issue .,0.0,0.0,1.0,0.0,Neutral
+1158,Emily James,emily.james@gmail.com,use product long enough judge .,0.0,0.0,1.0,0.0,Neutral
+1161,Michael Kelly,michael@gmail.com,delivery normal product work .,0.0,0.0,1.0,0.0,Neutral
+1162,Sarah Sanders,sarah@gmail.com,basic product average performance .,0.0,0.0,1.0,0.0,Neutral
+1163,James Price,james@yahoo.com,product seem work describe .,0.0,0.0,1.0,0.0,Neutral
+1164,Patricia Bennett,patricia@gmail.com,major issue far . continue use .,0.0,0.0,1.0,0.0,Neutral
+1166,Laura Barnes,laura@yahoo.com,ordinary product ordinary feature .,0.0,0.0,1.0,0.0,Neutral
+1168,Nancy Henderson,nancy@gmail.com,item work properly stand .,0.0,0.0,1.0,0.0,Neutral
+1169,Anthony Coleman,anthony@yahoo.com,product usable reasonably price .,0.0,0.0,1.0,0.0,Neutral
+1172,Barbara Powell,barbara@yahoo.com,product suitable simple everyday use .,0.0,0.0,1.0,0.0,Neutral
+1175,Steven Hughes,steven@yahoo.com,"product job , nothing .",0.0,0.0,1.0,0.0,Neutral
